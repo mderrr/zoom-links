@@ -2,7 +2,6 @@ import json
 import datetime
 import requests
 from sys import exit
-from os import chdir, getcwd
 from webbrowser import open as openWebLink
 from pyperclip import copy as copyToClipboard
 from tkinter import (Tk, messagebox, Toplevel, OptionMenu, Label, mainloop, StringVar, Button)
