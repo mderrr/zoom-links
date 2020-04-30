@@ -2,6 +2,7 @@ import json
 import datetime
 import requests
 from sys import exit
+from os import chdir, getcwd
 from webbrowser import open as openWebLink
 from pyperclip import copy as copyToClipboard
 from tkinter import (Tk, messagebox, Toplevel, OptionMenu, Label, mainloop, StringVar, Button)
@@ -9,6 +10,7 @@ from tkinter import (Tk, messagebox, Toplevel, OptionMenu, Label, mainloop, Stri
 # ============================================================== MENSAJES ============================================================== #
 RAW_SCHEDULE_LINK = "https://raw.githubusercontent.com/shernandezz/zoom-links/master/JSON%20files/schedule.json"
 RAW_CLASSROOMS_LINK = "https://raw.githubusercontent.com/shernandezz/zoom-links/master/JSON%20files/classrooms.json"
+ICON_PATH = r"link.ico"
 FORM_GEOMETRY_WINDOW = "+{}+{}"
 ZOOM_LINK_FORM = "https://zoom.us/j/{}"
 CANCEL = "Cancelar"
@@ -27,6 +29,7 @@ def getCurrentTime():
 def createTkRoot():
     root = Tk()
     root.withdraw()
+    root.iconbitmap(ICON_PATH)
 
 def center(window):
     horizontal_coord = int((window.winfo_screenwidth() / 2) - (window.winfo_reqwidth()))
