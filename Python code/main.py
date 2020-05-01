@@ -9,7 +9,7 @@ from tkinter import (Tk, ttk, messagebox, Toplevel, OptionMenu, Label, mainloop,
 # ============================================================== MESSAGES ============================================================== #
 RAW_SCHEDULE_LINK = "https://raw.githubusercontent.com/shernandezz/zoom-links/master/JSON%20files/schedule.json"
 RAW_CLASSROOMS_LINK = "https://raw.githubusercontent.com/shernandezz/zoom-links/master/JSON%20files/classrooms.json"
-ICON_PATH = r"link.ico"
+ICON_PATH = r"connection.ico"
 WINDOW_GEOMETRY_FORMAT = "+{}+{}"
 ZOOM_LINK_FORMAT = "https://zoom.us/j/{}"
 CANCEL = "Cancelar"
