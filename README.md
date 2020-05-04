@@ -14,6 +14,8 @@ Este repositorio es el hogar del proyecto de generador de links para zoom y cont
 ***
 
 # Ayuda
+[`Android`](#android) [`MacOS`](#macos) [`Linux`](#linux) [`Código Fuente`](#como-acceder-al-código-fuente)
+
 **Tengo un problema**
 >Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución.
 
