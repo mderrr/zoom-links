@@ -4,6 +4,7 @@
 * [**MacOS**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/Zoom%20Links.app.zip) - [_Ayuda_](#macos)
 * [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links) - [_Ayuda_](#linux)
 * **iOS** - _Desarrollo en proceso_
+
 [**¿Necesitas Ayuda?**](#ayuda)
 
 ***
