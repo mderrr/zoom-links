@@ -1,4 +1,4 @@
-[I'm a reference-style link][# _Ayuda Para Android_]
+[I'm a reference-style link][_Ayuda Para Android_]
 
 # _Ayuda Para Linux_
 **Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
