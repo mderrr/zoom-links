@@ -1,7 +1,7 @@
 # Zoom Links
 Este repositorio es el hogar del proyecto de generador de links para zoom y contiene todas sus versiones.
 
-_**Nota:**_ Para usar el código de python es necesario tener instalado el modulo `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`. Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon, pero en caso de no estarlo pueden ser instalados usando pip, si no sabes como usarlo recomiendo este [_tutorial_](https://tecnonucleous.com/2018/01/28/como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
+_**Nota:**_ Para usar el código de python es necesario tener instalados los módulos `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`. Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon, pero en caso de no estarlo pueden ser instalados usando pip, si no sabes como usarlo recomiendo este [_tutorial_](https://tecnonucleous.com/2018/01/28/como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
 
 ***
 
