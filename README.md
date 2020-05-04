@@ -28,7 +28,7 @@ Este repositorio es el hogar del proyecto de generador de links para zoom y cont
 Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero en caso de no estarlo pueden ser instalados usando pip, si no sabes como usarlo recomiendo este [_tutorial_](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
 
 Para encontrar el código fuente navega a:
-+ `Versiones`
++ [`Versiones`](/Versions)
 + Selecciona la versión correspondiente a tu máquina.
 + Abre la carpeta `Source Code`
 
