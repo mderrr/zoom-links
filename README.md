@@ -10,9 +10,9 @@ _**Nota:**_ Para usar el codigo de python es nesesario tener instalado el modulo
 * [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links) - [_Ayuda_](Versions/Linux/help.md)
 
 # Ayuda
-+ Ir a [MacOS](#ayuda-para-macos)
-+ Ir a [Android](#ayuda-para-android)
-+ Ir a [Linux](#ayuda-para-linux)
++ Ir a [_MacOS_](#macos)
++ Ir a [_Android_](#android)
++ Ir a [_Linux_](#linux)
 
 ## _MacOS_
 **Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
