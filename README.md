@@ -27,7 +27,7 @@ Este repositorio es el hogar del proyecto de generador de links para zoom y cont
 + [Ayuda Para Android](#android)
 + [Ayuda Para MacOS](#macos)
 + [Ayuda Para Linux](#linux)
-+ [Como acceder al código fuente](#como-acceder-al-codigo-fuente)
++ [Como acceder al código fuente](#como-acceder-al-código-fuente)
 
 ## Como acceder al código fuente
 ### **Para Windows, MacOS y Linux:**
