@@ -58,8 +58,11 @@ Este repositorio es el hogar del proyecto de generador de links para zoom y cont
 
 ## Como acceder al código fuente
 ### **Para Windows, MacOS y Linux:**
->Para manipular el código fuente de estas versiones es nesesario tener [**Python**](https://www.python.org/) instalado, además es necesario tener instalados los módulos `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`.                                          
-Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero en caso de no estarlo pueden ser instalados usando pip, si no sabes como usarlo recomiendo este [_tutorial_](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
+>Es necesario tener [**Python**](https://www.python.org/) instalado junto con los módulos `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`.                                          
+Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero en caso de no estarlo pueden ser instalados usando pip.
+
+Si no sabes usar `pip`: 
++ Sigue este [_tutorial_](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
 
 Para encontrar el código fuente navega a:
 + [`Versiones`](/Versions)
