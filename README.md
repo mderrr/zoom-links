@@ -70,7 +70,7 @@ Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero 
 + Abre la carpeta `Source Code`
 
 ### **Para Android:**
->Para manipular el código fuente de Android es nesesario tener [**Android Studio**](https://developer.android.com/studio/)instalado.
+>Para manipular el código fuente de Android es nesesario tener [**Android Studio**](https://developer.android.com/studio/) instalado.
 
 #### Para encontrar el código fuente de Android:
 + navega a la carpeta [**`Android Studio Project`**](/Versions/Android/Android%20Studio%20Project)
