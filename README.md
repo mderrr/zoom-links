@@ -3,7 +3,10 @@
 * [**Android**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Android/ZL%20andriod.apk)
 * [**MacOS**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/ZL%20MacOS%20Installer.pkg)
 * [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links)
-## Zoom Links
+# Textos de ayuda
+* [**_Ayuda para Android_**](Versions/Android/help.md)
+
+### Zoom Links
 
 Repositorio para el proyecto de generador de links para zoom.
 
