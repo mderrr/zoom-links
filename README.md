@@ -10,7 +10,7 @@ _**Nota:**_ Para usar el codigo de python es nesesario tener instalado el modulo
 * [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links) - [_Ayuda_](#linux)
 
 # Ayuda
-Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión y busca tu problema, para darle solucion sigue los pasos listados.
+Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución.
 
 ### Mi problema no esta listado
 Si tu problema no aparece listado en el apartado de ayuda para tu version de Zoom Links, porfavor comunicate conmigo por culquier medio y hazme saber tu situcion para poder asistirte.
