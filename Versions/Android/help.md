@@ -1,8 +1,8 @@
 # Ayuda
 Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución.
 
-### Mi problema no esta listado
-Si tu problema no aparece listado en el apartado de ayuda para tu version de Zoom Links, porfavor comunicate conmigo por culquier medio y hazme saber tu situcion para poder asistirte.
+### Mi problema no está listado
+Si tu problema no aparece listado en el apartado de ayuda para tu versión de Zoom Links, por favor comunicate conmigo por cualquier medio y hazme saber tu situación para poder asistirte.
 
 ## _Android_
 **Si al momento de abrir el archivo ejecutable se muestra un mensaje diciendo:**
