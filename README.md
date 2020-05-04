@@ -1,7 +1,7 @@
 # Zoom Links
 Este repositorio es el hogar del proyecto de generador de links para zoom y contiene todas sus versiones.
 
-_**Nota:**_ Para usar el codigo de python es nesesario tener instalado el modulo pyperclip, webbrowser, datetime requests y tkinter. La mayoria de estos vienen por defecto con Pyhthon, los demás puden ser instalados usando pip, si no sabes como usarlo recomiendo este [_tutorial_](https://tecnonucleous.com/2018/01/28/como-instalar-pip-para-python-en-windows-mac-y-linux/).
+_**Nota:**_ Para usar el codigo de python es nesesario tener instalado el modulo pyperclip, webbrowser, datetime, requests y tkinter. La mayoria de estos vienen por defecto con Pyhthon, los demás puden ser instalados usando pip, si no sabes como usarlo recomiendo este [_tutorial_](https://tecnonucleous.com/2018/01/28/como-instalar-pip-para-python-en-windows-mac-y-linux/).
 
 # Descargas
 * [**Windows**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Windows/ZL%20Windows%20Installer.exe)
@@ -10,7 +10,10 @@ _**Nota:**_ Para usar el codigo de python es nesesario tener instalado el modulo
 * [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links) - [_Ayuda_](#linux)
 
 # Ayuda
-Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión y busca tu problema, si tu problema no aparece listado, porfavor contactame para poder asistirte.
+Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión y busca tu problema, para darle solucion sigue los pasos listados.
+
+### Mi problema no esta listado
+Si tu problema no aparece listado en el apartado de ayuda para tu version de Zoom Links, porfavor comunicate conmigo por culquier medio y hazme saber tu situcion para poder asistirte.
 
 ## _MacOS_
 **Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
