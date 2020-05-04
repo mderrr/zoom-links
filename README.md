@@ -16,8 +16,7 @@ _**Nota:**_ Para usar el código de python es necesario tener instalado el modul
 
 # Ayuda
 + **Tengo un problema**
-
-Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución.
+>Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución.
 
 + **Mi problema no fue resuelto por la ayuda**
 
