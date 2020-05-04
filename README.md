@@ -1,5 +1,5 @@
 # Descargas
-[**`¿Necesitas Ayuda?`**](#ayuda)
+[**¿Necesitas Ayuda?**](#ayuda)
 * [**Windows**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Windows/ZL%20Windows%20Installer.exe)
 * [**Android**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Android/ZL%20andriod.apk) - [_Ayuda_](#android)
 * [**MacOS**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/Zoom%20Links.app.zip) - [_Ayuda_](#macos)
@@ -25,7 +25,7 @@ Este repositorio es el hogar del proyecto de generador de links para zoom y cont
 
 ## _Como acceder al código fuente_
 ### **Para Windows, MacOS y Linux:**
->Para manipular el código fuente de estas versiones es nesesario tener [**`Python`**](https://www.python.org/) instalado, además es necesario tener instalados los módulos `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`.                                          
+>Para manipular el código fuente de estas versiones es nesesario tener [**Python**](https://www.python.org/) instalado, además es necesario tener instalados los módulos `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`.                                          
 Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero en caso de no estarlo pueden ser instalados usando pip, si no sabes como usarlo recomiendo este [_tutorial_](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
 
 Para encontrar el código fuente navega a:
@@ -34,7 +34,7 @@ Para encontrar el código fuente navega a:
 + Abre la carpeta `Source Code`
 
 ### **Para Android:**
->Para manipular el código fuente de Android es nesesario tener [**`Android Studio`**](https://developer.android.com/studio/)instalado.
+>Para manipular el código fuente de Android es nesesario tener [**Android Studio**](https://developer.android.com/studio/)instalado.
 
 Para encontrar el código fuente de Android navega a la carpeta [**`Android Studio Project`**](/Versions/Android/Android%20Studio%20Project)
 
