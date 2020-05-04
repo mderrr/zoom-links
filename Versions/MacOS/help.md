@@ -1,10 +1,16 @@
-# _Ayuda Para MacOS_
-**Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
-   > "No se puede abrir porque es de un desarrollador no identificado".
+# Ayuda
+Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución.
 
-   + Luego de haber ejecutado el programa.
-   + Abre las `preferencias del sistema`.
-   + Selecciona `Seguridad y Privacidad`.
-   + En la parte inferior de la pestaña `general`.
-   + En el apartado de `permitir apps descargadas desde`.
-   + Busca el botón de `abrir de todos modos` y haz click en él.
+### Mi problema no esta listado
+Si tu problema no aparece listado en el apartado de ayuda para tu version de Zoom Links, porfavor comunicate conmigo por culquier medio y hazme saber tu situcion para poder asistirte.
+
+## _MacOS_
+**Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
+> "No se puede abrir porque es de un desarrollador no identificado".
+
++ Luego de haber ejecutado el programa.
++ Abre las `preferencias del sistema`.
++ Selecciona `Seguridad y Privacidad`.
++ En la parte inferior de la pestaña `general`.
++ En el apartado de `permitir apps descargadas desde`.
++ Busca el botón de `abrir de todos modos` y haz click en él.
