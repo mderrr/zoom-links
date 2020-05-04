@@ -6,8 +6,4 @@
 
 Repositorio para el proyecto de generador de links para zoom.
 
-_**Nota:**_ Para usar el codigo de python es nesesario tener instalado el modulo pyperclip, request y tkinter. Estos puden ser instalados usando pip asi:
-
-Primero hay que instalar pip:
-
-_Para Windows:_ Pip deberia venir empacado con tu version de python, pero si no lo esta puedes ejecutar este comando `py -3 -m ensurepip`
+_**Nota:**_ Para usar el codigo de python es nesesario tener instalado el modulo pyperclip, requests y tkinter. Estos puden ser instalados usando pip, si no sabes como usarlo recomiendo este [_tutorial_](https://tecnonucleous.com/2018/01/28/como-instalar-pip-para-python-en-windows-mac-y-linux/).
