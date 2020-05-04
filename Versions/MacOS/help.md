@@ -4,5 +4,6 @@
 
    + Abre `preferencias del sistema`.
    + Selecciona `Seguridad y Privacidad`.
-   + En la parte inferior de la pestaña `general`, en el apartado de _permitir apps descargadas desde_.
+   + En la parte inferior de la pestaña `general`.
+   + En el apartado de `permitir apps descargadas desde`.
    + Busca el botón de `abrir de todos modos` y haz click en él.
