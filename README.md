@@ -27,10 +27,9 @@ Este repositorio es el hogar del proyecto de generador de links para zoom y cont
 >Para manipular el código fuente de estas versiones es nesesario tener python instalado, además es necesario tener instalados los módulos `pyperclip`, >`webbrowser`, `datetime`, `requests` y `tkinter`. Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero en caso de no estarlo >pueden ser instalados usando pip, si no sabes como usarlo recomiendo este [_tutorial_](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
 
 Navega a:
-
-    + `Versiones`
-    + Selecciona la versión correspondiente a tu máquina.
-    + Abre la carpeta `Source Code`
++ `Versiones`
++ Selecciona la versión correspondiente a tu máquina.
++ Abre la carpeta `Source Code`
 
 
 
