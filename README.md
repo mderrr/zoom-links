@@ -29,21 +29,6 @@ Este repositorio es el hogar del proyecto de generador de links para zoom y cont
 + [Ayuda Para Linux](#linux)
 + [Como acceder al código fuente](#como-acceder-al-código-fuente)
 
-## Como acceder al código fuente
-### **Para Windows, MacOS y Linux:**
->Para manipular el código fuente de estas versiones es nesesario tener [**Python**](https://www.python.org/) instalado, además es necesario tener instalados los módulos `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`.                                          
-Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero en caso de no estarlo pueden ser instalados usando pip, si no sabes como usarlo recomiendo este [_tutorial_](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
-
-Para encontrar el código fuente navega a:
-+ [`Versiones`](/Versions)
-+ Selecciona la versión correspondiente a tu máquina.
-+ Abre la carpeta `Source Code`
-
-### **Para Android:**
->Para manipular el código fuente de Android es nesesario tener [**Android Studio**](https://developer.android.com/studio/)instalado.
-
-Para encontrar el código fuente de Android navega a la carpeta [**`Android Studio Project`**](/Versions/Android/Android%20Studio%20Project)
-
 ## _MacOS_
 **Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
 > "No se puede abrir porque es de un desarrollador no identificado".
@@ -72,3 +57,18 @@ Para encontrar el código fuente de Android navega a la carpeta [**`Android Stud
 + Selecciona la opción `propiedades`.
 + Selecciona la ventana de `permisos`.
 + Activa la casilla `permitir ejecutar archivo como programa`.
+
+## Como acceder al código fuente
+### **Para Windows, MacOS y Linux:**
+>Para manipular el código fuente de estas versiones es nesesario tener [**Python**](https://www.python.org/) instalado, además es necesario tener instalados los módulos `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`.                                          
+Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero en caso de no estarlo pueden ser instalados usando pip, si no sabes como usarlo recomiendo este [_tutorial_](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
+
+Para encontrar el código fuente navega a:
++ [`Versiones`](/Versions)
++ Selecciona la versión correspondiente a tu máquina.
++ Abre la carpeta `Source Code`
+
+### **Para Android:**
+>Para manipular el código fuente de Android es nesesario tener [**Android Studio**](https://developer.android.com/studio/)instalado.
+
+Para encontrar el código fuente de Android navega a la carpeta [**`Android Studio Project`**](/Versions/Android/Android%20Studio%20Project)
