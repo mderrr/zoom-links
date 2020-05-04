@@ -29,13 +29,16 @@ _**Nota:**_ Para usar el codigo de python es nesesario tener instalado el modulo
 **Si al momento de abrir el archivo ejecutable se muestra un mensaje diciendo:**
 > "Por tu seguridad, tu teléfono no tiene permitido instalar apps desconocidas de esta fuente".
 
-+ Haz click en la opción configuración, y luego activa la casilla de permitir desde esta fuente.
-+ luego puedes regresar a la instalación y presionar instalar para completar el proceso.
++ En el mensaje haz click en la opción `configuración`.
++ Activa la casilla de `permitir desde esta fuente`.
++ Regresa a la instalación.
++ Presiona `instalar` para completar el proceso.
 
 ## _Linux_
 **Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
 > "No hay aplicación instalada para archivos ejecutables".
 
-+ Haz click derecho en el archivo y selecciona la opción: `propiedades`.
++ Haz `click derecho` en el archivo.
++ Selecciona la opción `propiedades`.
 + Selecciona la ventana de `permisos`.
 + Activa la casilla `permitir ejecutar archivo como programa`.
