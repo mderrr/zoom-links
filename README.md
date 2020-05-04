@@ -1,16 +1,16 @@
-# Zoom Links
-Este repositorio es el hogar del proyecto de generador de links para zoom y contiene todas sus versiones.
-
-_**Nota:**_ Para usar el código de python es necesario tener instalados los módulos `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`. Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon, pero en caso de no estarlo pueden ser instalados usando pip, si no sabes como usarlo recomiendo este [_tutorial_](https://tecnonucleous.com/2018/01/28/como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
-
-***
-
 # Descargas
 * [**Windows**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Windows/ZL%20Windows%20Installer.exe)
 * [**Android**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Android/ZL%20andriod.apk) - [_Ayuda_](#android)
 * [**MacOS**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/Zoom%20Links.app.zip) - [_Ayuda_](#macos)
 * [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links) - [_Ayuda_](#linux)
 * **iOS** - _Desarrollo en proceso_
+
+***
+
+# Zoom Links
+Este repositorio es el hogar del proyecto de generador de links para zoom y contiene todas sus versiones.
+
+_**Nota:**_ Para usar el código de python es necesario tener instalados los módulos `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`. Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon, pero en caso de no estarlo pueden ser instalados usando pip, si no sabes como usarlo recomiendo este [_tutorial_](https://tecnonucleous.com/2018/01/28/como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
 
 ***
 
