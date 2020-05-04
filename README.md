@@ -5,14 +5,12 @@ _**Nota:**_ Para usar el codigo de python es nesesario tener instalado el modulo
 
 # Descargas
 * [**Windows**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Windows/ZL%20Windows%20Installer.exe)
-* [**Android**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Android/ZL%20andriod.apk) - [_Ayuda_](Versions/Android/help.md)
-* [**MacOS**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/ZL%20MacOS%20Installer.pkg) - [_Ayuda_](Versions/MacOS/help.md)
-* [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links) - [_Ayuda_](Versions/Linux/help.md)
+* [**Android**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Android/ZL%20andriod.apk) - [_Ayuda_](#android)
+* [**MacOS**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/ZL%20MacOS%20Installer.pkg) - [_Ayuda_](#macos)
+* [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links) - [_Ayuda_](#linux)
 
 # Ayuda
-+ Ir a [_MacOS_](#macos)
-+ Ir a [_Android_](#android)
-+ Ir a [_Linux_](#linux)
+Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión y busca tu problema, si tu problema no aparece listado, porfavor contactame para poder asistirte.
 
 ## _MacOS_
 **Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
