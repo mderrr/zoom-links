@@ -1,8 +1,8 @@
 # Descargas
 * [_**Windows**_](https://github.com/shernandezz/zoom-links/raw/master/Versions/Windows/ZL%20Windows%20Installer.exe)
-* [_**Linux**_](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links)
 * [_**Android**_](https://github.com/shernandezz/zoom-links/raw/master/Versions/Android/ZL%20andriod.apk)
 * [_**MacOS**_](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/ZL%20MacOS%20Installer.pkg)
+* [_**Linux**_](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links)
 ## Zoom Links
 
 Repositorio para el proyecto de generador de links para zoom.
