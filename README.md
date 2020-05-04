@@ -1,6 +1,6 @@
 # Descargas
 * [**Windows**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Windows/ZL%20Windows%20Installer.exe)
-* [**Android**](shernandezz/zoom-links/raw/master/Versions/Android/ZL%20andriod.apk) - [_Ayuda_](Versions/Android/help.md)
+* [**Android**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Android/ZL%20andriod.apk) - [_Ayuda_](Versions/Android/help.md)
 * [**MacOS**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/ZL%20MacOS%20Installer.pkg)
 * [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links)
 ### Zoom Links
