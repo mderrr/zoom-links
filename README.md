@@ -15,8 +15,6 @@ Este repositorio es el hogar del proyecto de generador de links para zoom y cont
 ***
 
 # Ayuda
-### [_`Android`_](#android) [_`MacOS`_](#macos) [_`Linux`_](#linux) [_`Código Fuente`_](#como-acceder-al-código-fuente)
-
 **Tengo un problema**
 >Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución.
 
@@ -27,10 +25,7 @@ Este repositorio es el hogar del proyecto de generador de links para zoom y cont
 >Si tu problema no aparece listado en el apartado de ayuda para tu versión de Zoom Links, por favor comunicate conmigo por cualquier medio y hazme saber tu situación para poder asistirte.
 
 ## Índice
-+ [Ayuda Para Android](#android)
-+ [Ayuda Para MacOS](#macos)
-+ [Ayuda Para Linux](#linux)
-+ [Como acceder al código fuente](#como-acceder-al-código-fuente)
+### [_`Android`_](#android) [_`MacOS`_](#macos) [_`Linux`_](#linux) [_`Código Fuente`_](#como-acceder-al-código-fuente)
 
 ## _MacOS_
 **Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
