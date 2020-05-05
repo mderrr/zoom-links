@@ -1,5 +1,5 @@
 # _Ayuda MacOS_
-### [_Volver_](/zoom-links#ayuda)
+### [_Volver_](/#ayuda)
 
 **Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
 > "No se puede abrir porque es de un desarrollador no identificado".
