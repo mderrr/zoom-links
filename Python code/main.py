@@ -1,29 +1,29 @@
-import json
 import datetime
 import requests
 from sys import exit
+from os import chdir, getcwd
 from webbrowser import open as openWebLink
 from pyperclip import copy as copyToClipboard
 from tkinter import (Tk, messagebox, Toplevel, OptionMenu, Label, mainloop, StringVar, Button)
 
-# ============================================================== MENSAJES ============================================================== #
+# ============================================================== MESSAGES ============================================================== #
 RAW_SCHEDULE_LINK = "https://raw.githubusercontent.com/shernandezz/zoom-links/master/JSON%20files/schedule.json"
 RAW_CLASSROOMS_LINK = "https://raw.githubusercontent.com/shernandezz/zoom-links/master/JSON%20files/classrooms.json"
 ICON_PATH = r"link.ico"
-FORM_GEOMETRY_WINDOW = "+{}+{}"
-ZOOM_LINK_FORM = "https://zoom.us/j/{}"
+WINDOW_GEOMETRY_FORMAT = "+{}+{}"
+ZOOM_LINK_FORMAT = "https://zoom.us/j/{}"
 CANCEL = "Cancelar"
-TITULO_VENT_OPC = "Clases Programadas"
-MSJBOX_PGA_TITLE = "Link Aula Zoom"
-MSJBOX_PGA_DIALOG = "¿Deseas entrar al aula de {}? \n(selecciona 'No' para copiar el link al portapapeles)"
-DIALOG_VENT_OPC = "En este momento hay múltiples clases programadas para empezar, \npor favor selecciona la clase a la que vas a asistir: "
-DIALOG_ERR_MATERIAS = "No hay ninguna clase programada a empezar en por lo menos una hora"
+MAIN_TITLE = "ZOOM LINKS"
+MSGBOX_QUESTION = "¿Deseas entrar al aula de {}? \n(selecciona 'No' para copiar el link al portapapeles)"
+MSGBOX_OPTIONS = "En este momento hay múltiples clases programadas para empezar, \npor favor selecciona la clase a la que vas a asistir: "
+CONNECTION_ERROR_MSG = "No ha sido posible establecer conexion con la base de datos, Revisa tu conexion a internet e intentalo de nuevo."
+NO_CLASSES_IN_SCHEDULE = "No hay ninguna clase programada a empezar en por lo menos una hora"
 
-# ============================================================== FUNCIONES ============================================================== #
+# ============================================================== FUNCTIONS ============================================================== #
 def getCurrentTime():
     dt_now = datetime.datetime.now().time()
-    tiempo = (dt_now.hour * 100) + (dt_now.minute)
-    return tiempo
+    time = (dt_now.hour * 100) + (dt_now.minute)
+    return time
 
 def createTkRoot():
     root = Tk()
@@ -33,11 +33,20 @@ def createTkRoot():
 def center(window):
     horizontal_coord = int((window.winfo_screenwidth() / 2) - (window.winfo_reqwidth()))
     vertical_coord = int((window.winfo_screenheight() / 2) - (window.winfo_reqheight() / 2))
-    window.geometry(FORM_GEOMETRY_WINDOW.format(horizontal_coord, vertical_coord))
+    window.geometry(WINDOW_GEOMETRY_FORMAT.format(horizontal_coord, vertical_coord))
+
+def requestJsonFile(file_link):
+    try:
+        request_data = requests.get(file_link).json()
+    except(requests.exceptions.ConnectionError):
+        messagebox.showerror(title = MAIN_TITLE, message = CONNECTION_ERROR_MSG)
+        exit()
+
+    return request_data
 
 def evaluateQuestion(question, link):
     if question:
-        openWebLink(link)
+        openWebLink(ZOOM_LINK_FORMAT.format(link))
         exit()
 
     elif question is None:
@@ -48,43 +57,45 @@ def evaluateQuestion(question, link):
         exit()
 
 def questionMessageBox(subject):
-    salones_request = requests.get(RAW_CLASSROOMS_LINK)
-    classroom_links = salones_request.json()
-
-    subject_link = ZOOM_LINK_FORM.format(classroom_links[subject["Salon"]])
-    link_question = messagebox.askyesnocancel(title = MSJBOX_PGA_TITLE, message = MSJBOX_PGA_DIALOG.format(subject["Nombre"]))
     
-    evaluateQuestion(link_question, subject_link)
+    classroom = subject["Salon"]
+    question_msgbox = messagebox.askyesnocancel(title = MAIN_TITLE, message = MSGBOX_QUESTION.format(subject["Nombre"]))
+    
+    evaluateQuestion(question_msgbox, classroom_links[classroom])
 
-def getSelectedSubject(value):
-    for subject in range(len(data[week_day])):
-        for name in data[week_day][subject].items():
-            if (name[1] == value):
-                questionMessageBox(data[week_day][subject])
+def getSubjectFromName(selected_name):
+    for subject in range(len(schedule[week_day])):
+        for item in schedule[week_day][subject].items():
+            if (item[1] == selected_name): # the .items() methon returns a tuple = ('Key': <item>) thats why i'm asking for the second[1] item
+                questionMessageBox(schedule[week_day][subject])
 
-def createOptionsWindow(lista_de_materias_seleccionadas):
+def createOptionsWindow(subjects_dictionary_list):
+    list_of_options = []
     options_window = Toplevel()
-    options_window.title(TITULO_VENT_OPC)
+    options_window.title(MAIN_TITLE)
+    options_window.iconbitmap(ICON_PATH)
     center(options_window)
 
     selected_name = StringVar(options_window)
     selected_name.set("Seleccionar")
     
-    list_of_options = []
-    for i in range(len(lista_de_materias_seleccionadas)):
-        list_of_options.append(lista_de_materias_seleccionadas[i]["Nombre"])
+    for i in range(len(subjects_dictionary_list)):
+        list_of_options.append(subjects_dictionary_list[i]["Nombre"])
+
+    first_option = list_of_options[0]
+    list_of_options.pop(0)
 
     options_message = Label(
         options_window,
-        text = DIALOG_VENT_OPC
+        text = MSGBOX_OPTIONS
     )
 
     options_menu = OptionMenu(
         options_window,
         selected_name,
-        "Seleccionar",
+        first_option,
         *list_of_options,
-        command=getSelectedSubject
+        command = getSubjectFromName
     )
 
     cancel_button = Button(
@@ -102,25 +113,24 @@ def createOptionsWindow(lista_de_materias_seleccionadas):
 # ============================================================== VARIABLES ============================================================== #
 current_time = getCurrentTime()
 week_day = datetime.datetime.now().date().weekday()
-lista_de_materias_en_rango = []
+subjects_in_schedule = []
+schedule = requestJsonFile(RAW_SCHEDULE_LINK)
+classroom_links = requestJsonFile(RAW_CLASSROOMS_LINK)
 
-# ============================================================== CODIGO ============================================================== #
+# ================================================================= CODE ================================================================= #
 createTkRoot()
 
-horarios_request = requests.get(RAW_SCHEDULE_LINK)
-data = horarios_request.json()
+for subject in range(len(schedule[week_day])):
+    if current_time in range(schedule[week_day][subject]["Inicio"], schedule[week_day][subject]["Final"]):
+        subjects_in_schedule.append(schedule[week_day][subject])
 
-for materia in range(len(data[week_day])):
-    if current_time in range(data[week_day][materia]["Inicio"], data[week_day][materia]["Final"]):
-        lista_de_materias_en_rango.append(data[week_day][materia])
+if (len(subjects_in_schedule) == 0):
+    messagebox.showerror(title = MAIN_TITLE, message = NO_CLASSES_IN_SCHEDULE,)
 
-if (len(lista_de_materias_en_rango) == 0):
-    messagebox.showerror(title = MSJBOX_PGA_TITLE, message = DIALOG_ERR_MATERIAS)
-
-elif (len(lista_de_materias_en_rango) == 1):
-    questionMessageBox(lista_de_materias_en_rango[0])
+elif (len(subjects_in_schedule) == 1):
+    questionMessageBox(subjects_in_schedule[0])
 
 else:
-    createOptionsWindow(lista_de_materias_en_rango)
+    createOptionsWindow(subjects_in_schedule)
     
 exit()
