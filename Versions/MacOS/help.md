@@ -1,4 +1,5 @@
-# _MacOS_ -                                             [_Regresar_](/README.md)
+# _MacOS_
+## [_Volver_](/zoom-links#ayuda)
 
 **Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
 > "No se puede abrir porque es de un desarrollador no identificado".
