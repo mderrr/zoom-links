@@ -1,14 +1,14 @@
 # Ayuda
 
 Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución:
-#### [`Android`](#android) [`MacOS`](/Versions/MacOS/help.md#ayuda-macos) [`Linux`](#linux) [`Código Fuente`](#como-acceder-al-código-fuente)
+#### [`Android`](#ayuda-para-android) [`MacOS`](#ayuda-para-macos) [`Linux`](#ayuda-para-linux) [`Código Fuente`](#como-acceder-al-código-fuente)
 
-# _Ayuda MacOS_
+## _Ayuda para MacOS_
 
-### Errores
+#### Errores
 + No se pudo abrir porque es de un desarrollador no identificado - [Ver](#no-se-pudo-abrir-porque-es-de-un-desarrollador-no-identificado---no-funcionó)
 
-#### **No se pudo abrir porque es de un desarrollador no identificado** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
+##### **No se pudo abrir porque es de un desarrollador no identificado** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
  
 >+ Luego de haber ejecutado el programa.
 >+ Abre las `preferencias del sistema`.
@@ -21,7 +21,7 @@ Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo
 
 [¿No encuentras tu problema?](#mi-problema-no-está-listado) - [Regresar](#ayuda)
 
-## _Android_
+## _Ayuda para Android_
 **Si al momento de abrir el archivo ejecutable se muestra un mensaje diciendo:**
 > "Por tu seguridad, tu teléfono no tiene permitido instalar apps desconocidas de esta fuente".
 
@@ -65,3 +65,5 @@ Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero 
 
 #### **Mi problema no está listado**
 >Si tu problema no aparece listado en el apartado de ayuda para tu versión de Zoom Links, por favor comunicate conmigo por cualquier medio y hazme saber tu situación para poder asistirte.
+
+[Regresar](#ayuda)
