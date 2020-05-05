@@ -1,6 +1,6 @@
 # _Ayuda MacOS_
 
-**Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
+**Si al momento de abrir el archivo ejecutable se muestra un error diciendo:** - [¿No Funcionó?](https://github.com/shernandezz/zoom-links#mi-problema-no-fue-resuelto-por-la-ayuda)
 > "No se puede abrir porque es de un desarrollador no identificado".
 
 + Luego de haber ejecutado el programa.
@@ -12,4 +12,5 @@
 
 ***
 [¿No encuentras tu problema?](https://github.com/shernandezz/zoom-links#mi-problema-no-está-listado)
+
 [Regresar](https://github.com/shernandezz/zoom-links#ayuda)
