@@ -9,7 +9,9 @@
 ***
 
 ## _Ayuda para MacOS_
-No se pudo abrir porque es de un desarrollador no identificado. - [Ver](#no-se-pudo-abrir-porque-es-de-un-desarrollador-no-identificado---no-funcionó)
+No se pudo abrir porque es de un desarrollador no identificado - [Ver](#no-se-pudo-abrir-porque-es-de-un-desarrollador-no-identificado---no-funcionó)
+
+[¿No encuentras tu problema?](#mi-problema-no-está-listado)
 
 ### **No se pudo abrir porque es de un desarrollador no identificado** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
  
@@ -20,7 +22,7 @@ No se pudo abrir porque es de un desarrollador no identificado. - [Ver](#no-se-p
 >+ En el apartado de `permitir apps descargadas desde`.
 >+ Busca el botón de `abrir de todos modos` y haz click en él.
 
-[¿No encuentras tu problema?](#mi-problema-no-está-listado) - [Regresar](#ayuda)
+[Regresar](#ayuda)
 
 ***
 
