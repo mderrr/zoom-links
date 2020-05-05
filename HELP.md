@@ -5,6 +5,7 @@
 + [**MacOS**](#ayuda-para-macos)
 + [**Linux**](#ayuda-para-linux)
 + [**Código Fuente**](#código-fuente)
++ [_Volver_](/README.md#descargas)
 
 ***
 
