@@ -1,6 +1,8 @@
 # _Ayuda MacOS_
-**No se pudo abrir porque es de un desarrollador no identificado**
-> [¿No Funcionó?](https://github.com/shernandezz/zoom-links#mi-problema-no-fue-resuelto-por-la-ayuda)
+### Errores
+> [`No se pudo abrir porque es de un desarrollador no identificado`](#no-se-pudo-abrir-porque-es-de-un-desarrollador-no identificado)
+
+**No se pudo abrir porque es de un desarrollador no identificado** ###### - [¿No Funcionó?](https://github.com/shernandezz/zoom-links#mi-problema-no-fue-resuelto-por-la-ayuda)
 
 >+ Luego de haber ejecutado el programa.
 >+ Abre las `preferencias del sistema`.
