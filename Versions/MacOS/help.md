@@ -1,7 +1,7 @@
 # _Ayuda MacOS_
 ### Errores
 
-[`No se pudo abrir porque es de un desarrollador no identificado`](#no-se-pudo-abrir-porque-es-de-un-desarrollador-no identificado)
+[`No se pudo abrir porque es de un desarrollador no identificado`](no-se-pudo-abrir-poque-es-de-un-desarrollador-no-identificado)
 
 #### **No se pudo abrir porque es de un desarrollador no identificado** 
 
@@ -11,7 +11,7 @@
 >+ En la parte inferior de la pestaña `general`.
 >+ En el apartado de `permitir apps descargadas desde`.
 >+ Busca el botón de `abrir de todos modos` y haz click en él.
-> ###### [¿No Funcionó?](https://github.com/shernandezz/zoom-links#mi-problema-no-fue-resuelto-por-la-ayuda)
+> [¿No Funcionó?](https://github.com/shernandezz/zoom-links#mi-problema-no-fue-resuelto-por-la-ayuda)
 
 
 ***
