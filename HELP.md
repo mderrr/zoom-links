@@ -1,10 +1,10 @@
 # Ayuda
 
 Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución:
-+ ### [`Android`](#ayuda-para-android)
-+ ### [`MacOS`](#ayuda-para-macos)
-+ ### [`Linux`](#ayuda-para-linux)
-+ ### [`Código Fuente`](#como-acceder-al-código-fuente)
++ [`Android`](#ayuda-para-android)
++ [`MacOS`](#ayuda-para-macos)
++ [`Linux`](#ayuda-para-linux)
++ [`Código Fuente`](#como-acceder-al-código-fuente)
 
 ***
 
