@@ -12,4 +12,4 @@
 
 ***
 
-#### Regresar a [`Ayuda General`](https://github.com/shernandezz/zoom-links#ayuda)
+#### Regresar - [`Ayuda`](https://github.com/shernandezz/zoom-links#ayuda)
