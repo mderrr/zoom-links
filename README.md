@@ -1,7 +1,7 @@
 # Descargas
 + [**Windows**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Windows/ZL%20Windows%20Installer.exe)
 + [**Android**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Android/ZL%20andriod.apk)
-+ [**MacOS**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/Zoom%20Links.app.zip)
++ [**MacOS X**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/Zoom%20Links.app.zip)
 + [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links)
 + **iOS** - _Desarrollo en proceso_
 
@@ -9,16 +9,10 @@
 
 ***
 
-# Zoom Links
-Este repositorio es el hogar del proyecto de generador de links para zoom y contiene todas sus versiones.
-
-***
-
 # Ayuda
-#### [`Android`](#android) [`MacOS`](#macos) [`Linux`](#linux) [`Código Fuente`](#como-acceder-al-código-fuente)
 
-**Tengo un problema**
->Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución.
+Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución:
+#### [`Android`](#android) [`MacOS`](#macos) [`Linux`](#linux) [`Código Fuente`](#como-acceder-al-código-fuente)
 
 **Mi problema no fue resuelto por la ayuda**
 >Si al seguir las instrucciones propuestas el problema persiste, por favor comunicate conmigo por cualquier medio y hazme saber en detalle las circunstancias que dan lugar a tu problema para poder asistirte.
@@ -74,3 +68,8 @@ Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero 
 
 #### Para encontrar el código fuente de Android:
 + navega a la carpeta [**`Android Studio Project`**](/Versions/Android/Android%20Studio%20Project)
+
+***
+
+# Zoom Links
+Este repositorio es el hogar del proyecto de generador de links para zoom y contiene todas sus versiones.
