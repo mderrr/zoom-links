@@ -10,4 +10,4 @@
 + En el apartado de `permitir apps descargadas desde`.
 + Busca el botón de `abrir de todos modos` y haz click en él.
 
-## [_`Volver`_](https://github.com/shernandezz/zoom-links#ayuda)
+### [_`Regresar a Ayuda General`_](https://github.com/shernandezz/zoom-links#ayuda)
