@@ -4,7 +4,7 @@
 + [**Android**](#ayuda-para-android)
 + [**MacOS**](#ayuda-para-macos)
 + [**Linux**](#ayuda-para-linux)
-+ [**Código Fuente**](#como-acceder-al-código-fuente)
++ [**Código Fuente**](#código-fuente)
 
 ***
 
@@ -54,8 +54,8 @@
 [Regresar](#ayuda)
 
 ***
-
-dd+ Como acceder al código fuente en Windows, MacOS y Linux - [Ver](#acceder-en-windows-macos-y-linux)
+## _Código Fuente_
++ Como acceder al código fuente en Windows, MacOS y Linux - [Ver](#acceder-en-windows-macos-y-linux)
 + Como acceder al código fuente en Android - [Ver](#acceder-en-android)
 + [¿No encuentras tu problema?](#mi-problema-no-está-listado)
 
@@ -66,9 +66,9 @@ dd+ Como acceder al código fuente en Windows, MacOS y Linux - [Ver](#acceder-en
 > Si no sabes usar `pip` te recomiendo este [Tutorial](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
 
 #### Para encontrar el código fuente navega a:
-    + [`Versiones`](/Versions)
-    + Selecciona la carpeta de la versión correspondiente a tu máquina.
-    + Selecciona la carpeta `Source Code`
+   + [`Versiones`](/Versions)
+   + Selecciona la carpeta de la versión correspondiente a tu máquina.
+   + Selecciona la carpeta `Source Code`
 
 ### **Acceder en Android:**
 >Para manipular el código fuente de Android es nesesario tener [**Android Studio**](https://developer.android.com/studio/) instalado.
