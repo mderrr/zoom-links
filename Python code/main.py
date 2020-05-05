@@ -36,26 +36,15 @@ def center(window):
     vertical_coord = int((window.winfo_screenheight() / 2) - (window.winfo_reqheight() / 2))
     window.geometry(WINDOW_GEOMETRY_FORMAT.format(horizontal_coord, vertical_coord))
 
-def requestScheduleJsonFile():
+def requestJsonFile(key):
     try:
         request_data = requests.get(RAW_DATA_LINK).json()
-        data = request_data["Horarios"]
+        data = request_data[key]
     except(requests.exceptions.ConnectionError):
         messagebox.showerror(title = MAIN_TITLE, message = CONNECTION_ERROR_MSG)
         exit()
 
     return data
-
-def requestClassroomsJsonFile():
-    try:
-        request_data = requests.get(RAW_DATA_LINK).json()
-        data = request_data["Salones"]
-    except(requests.exceptions.ConnectionError):
-        messagebox.showerror(title = MAIN_TITLE, message = CONNECTION_ERROR_MSG)
-        exit()
-
-    return data
-
 
 def evaluateQuestion(question, link):
     if question:
@@ -118,8 +107,8 @@ def createOptionsWindow(subjects_dictionary_list):
 current_time = getCurrentTime()
 week_day = datetime.datetime.now().date().weekday()
 subjects_in_schedule = []
-schedule = requestScheduleJsonFile()
-classroom_links = requestClassroomsJsonFile()
+schedule = requestJsonFile("Horarios")
+classroom_links = requestJsonFile("Salones")
 
 # ================================================================= CODE ================================================================= #
 createTkRoot()
