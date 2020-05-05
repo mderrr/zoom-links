@@ -62,9 +62,10 @@ dd+ Como acceder al código fuente en Windows, MacOS y Linux - [Ver](#acceder-en
 ### **Acceder en Windows, MacOS y Linux:**
 >Es necesario tener [**Python**](https://www.python.org/) instalado junto con los módulos `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`.
 >Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero en caso de no estarlo pueden ser instalados usando pip.
+
 > Si no sabes usar `pip` te recomiendo este [Tutorial](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
 
-+ #### Para encontrar el código fuente navega a:
+#### Para encontrar el código fuente navega a:
     + [`Versiones`](/Versions)
     + Selecciona la carpeta de la versión correspondiente a tu máquina.
     + Selecciona la carpeta `Source Code`
