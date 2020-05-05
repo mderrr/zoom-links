@@ -1,7 +1,6 @@
 # _Ayuda MacOS_
 **"No se puede abrir porque es de un desarrollador no identificado"**
-> Si al momento de abrir el archivo ejecutable se presenta este error:**
-
+> Si al momento de abrir el archivo ejecutable se presenta este error:S
 + Luego de haber ejecutado el programa.
 + Abre las `preferencias del sistema`.
 + Selecciona `Seguridad y Privacidad`.
