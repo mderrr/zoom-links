@@ -61,11 +61,9 @@
 
 ### **Acceder en Windows, MacOS y Linux:**
 >Es necesario tener [**Python**](https://www.python.org/) instalado junto con los módulos `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`.
->Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero en caso de no estarlo pueden ser instalados usando pip.
+>Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero en caso de no estarlo pueden ser instalados usando `pip`, si no sabes usarlo te recomiendo este [Tutorial](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
 
-> Si no sabes usar `pip` te recomiendo este [Tutorial](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
-
-#### Para encontrar el código fuente navega a:
+> Luego de cumplir los requisitos puedes acceder al código fuente navegando a:
    + [`Versiones`](/Versions)
    + Selecciona la carpeta de la versión correspondiente a tu máquina.
    + Selecciona la carpeta `Source Code`
