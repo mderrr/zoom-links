@@ -1,7 +1,12 @@
 # Ayuda
 
 Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución:
-#### [`Android`](#ayuda-para-android) [`MacOS`](#ayuda-para-macos) [`Linux`](#ayuda-para-linux) [`Código Fuente`](#como-acceder-al-código-fuente)
++ ### [`Android`](#ayuda-para-android)
++ ### [`MacOS`](#ayuda-para-macos)
++ ### [`Linux`](#ayuda-para-linux)
++ ### [`Código Fuente`](#como-acceder-al-código-fuente)
+
+***
 
 ## _Ayuda para MacOS_
 + No se pudo abrir porque es de un desarrollador no identificado - [Ver](#no-se-pudo-abrir-porque-es-de-un-desarrollador-no-identificado---no-funcionó)
@@ -15,9 +20,9 @@ Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo
 >+ En el apartado de `permitir apps descargadas desde`.
 >+ Busca el botón de `abrir de todos modos` y haz click en él.
 
-***
-
 [¿No encuentras tu problema?](#mi-problema-no-está-listado) - [Regresar](#ayuda)
+
+***
 
 ## _Ayuda para Android_
 **Si al momento de abrir el archivo ejecutable se muestra un mensaje diciendo:**
