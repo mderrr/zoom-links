@@ -71,10 +71,13 @@
 ### **Acceder en Android:**
 >Para manipular el código fuente de Android es nesesario tener [**Android Studio**](https://developer.android.com/studio/) instalado.
 
-+ #### Para encontrar el código fuente de Android:
-    > Navega a la carpeta [**`Android Studio Project`**](/Versions/Android/Android%20Studio%20Project)
+> Luego de cumplir este requisito puedes acceder al código fuente navegando a:
+   + Navega a la carpeta [**`Android Studio Project`**](/Versions/Android/Android%20Studio%20Project)
+
+[Regresar](#ayuda)
 
 ***
+## Otros
 
 #### **Mi problema no fue resuelto por la ayuda**
 >Si al seguir las instrucciones propuestas el problema persiste, por favor comunicate conmigo por cualquier medio y hazme saber en detalle las circunstancias que dan lugar a tu problema para poder asistirte.
