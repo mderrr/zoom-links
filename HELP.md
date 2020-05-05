@@ -4,11 +4,9 @@ Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo
 #### [`Android`](#ayuda-para-android) [`MacOS`](#ayuda-para-macos) [`Linux`](#ayuda-para-linux) [`Código Fuente`](#como-acceder-al-código-fuente)
 
 ## _Ayuda para MacOS_
-
-#### Errores
 + No se pudo abrir porque es de un desarrollador no identificado - [Ver](#no-se-pudo-abrir-porque-es-de-un-desarrollador-no-identificado---no-funcionó)
 
-##### **No se pudo abrir porque es de un desarrollador no identificado** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
+### **No se pudo abrir porque es de un desarrollador no identificado** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
  
 >+ Luego de haber ejecutado el programa.
 >+ Abre las `preferencias del sistema`.
