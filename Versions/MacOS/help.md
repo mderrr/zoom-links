@@ -11,5 +11,5 @@
 + Busca el botón de `abrir de todos modos` y haz click en él.
 
 ***
-
-#### Regresar - [`Ayuda`](https://github.com/shernandezz/zoom-links#ayuda)
+[¿No encuentras tu problema?](https://github.com/shernandezz/zoom-links#mi-problema-no-está-listado)
+[Regresar](https://github.com/shernandezz/zoom-links#ayuda)
