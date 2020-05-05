@@ -26,7 +26,7 @@
 ***
 
 ## _Ayuda para Android_
-+ No se pudo abrir porque es de un desarrollador no identificado - [Ver](#no-se-pudo-abrir-porque-es-de-un-desarrollador-no-identificado---no-funcionó)
++ Por tu seguridad tu teléfono no tiene permitido instalar apps desconocidas de esta fuente - [Ver](#por-tu-seguridad-tu-teléfono-no-tiene-permitido-instalar-apps-desconocidas-de-esta-fuente---no-funcionó)
 + [¿No encuentras tu problema?](#mi-problema-no-está-listado)
 
 ### **Por tu seguridad, tu teléfono no tiene permitido instalar apps desconocidas de esta fuente** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
@@ -41,7 +41,7 @@
 ***
 
 ## _Linux_
-+ No se pudo abrir porque es de un desarrollador no identificado - [Ver](#no-se-pudo-abrir-porque-es-de-un-desarrollador-no-identificado---no-funcionó)
++ No hay aplicación instalada para archivos ejecutables - [Ver](no-hay-aplicación-instalada-para-archivos-ejecutables---no-funcionó)
 + [¿No encuentras tu problema?](#mi-problema-no-está-listado)
 
 ### **No hay aplicación instalada para archivos ejecutables** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
