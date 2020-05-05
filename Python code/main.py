@@ -7,7 +7,7 @@ from pyperclip import copy as copyToClipboard
 from tkinter import (Tk, ttk, messagebox, Toplevel, OptionMenu, Label, mainloop, StringVar, Button)
 
 # ============================================================== MESSAGES ============================================================== #
-RAW_SCHEDULE_LINK = "https://raw.githubusercontent.com/shernandezz/zoom-links/master/JSON%20files/schedule.json"
+RAW_DATA_LINK = "https://raw.githubusercontent.com/shernandezz/zoom-links/master/JSON%20files/data.json"
 RAW_CLASSROOMS_LINK = "https://raw.githubusercontent.com/shernandezz/zoom-links/master/JSON%20files/classrooms.json"
 ICON_PATH = r"connection.ico"
 WINDOW_GEOMETRY_FORMAT = "+{}+{}"
@@ -37,14 +37,26 @@ def center(window):
     vertical_coord = int((window.winfo_screenheight() / 2) - (window.winfo_reqheight() / 2))
     window.geometry(WINDOW_GEOMETRY_FORMAT.format(horizontal_coord, vertical_coord))
 
-def requestJsonFile(file_link):
+def requestScheduleJsonFile():
     try:
-        request_data = requests.get(file_link).json()
+        request_data = requests.get(RAW_DATA_LINK).json()
+        data = request_data["Horarios"]
     except(requests.exceptions.ConnectionError):
         messagebox.showerror(title = MAIN_TITLE, message = CONNECTION_ERROR_MSG)
         exit()
 
-    return request_data
+    return data
+
+def requestClassroomsJsonFile():
+    try:
+        request_data = requests.get(RAW_DATA_LINK).json()
+        data = request_data["Salones"]
+    except(requests.exceptions.ConnectionError):
+        messagebox.showerror(title = MAIN_TITLE, message = CONNECTION_ERROR_MSG)
+        exit()
+
+    return data
+
 
 def evaluateQuestion(question, link):
     if question:
@@ -107,8 +119,8 @@ def createOptionsWindow(subjects_dictionary_list):
 current_time = getCurrentTime()
 week_day = datetime.datetime.now().date().weekday()
 subjects_in_schedule = []
-schedule = requestJsonFile(RAW_SCHEDULE_LINK)
-classroom_links = requestJsonFile(RAW_CLASSROOMS_LINK)
+schedule = requestScheduleJsonFile()
+classroom_links = requestClassroomsJsonFile()
 
 # ================================================================= CODE ================================================================= #
 createTkRoot()
