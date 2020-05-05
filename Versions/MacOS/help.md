@@ -1,7 +1,7 @@
 # _Ayuda MacOS_
 
 ### Errores
-+ No se pudo abrir porque es de un desarrollador no identificado - [Ver](no-se-pudo-abrir-porque-es-de-un-desarrollador-no-identificado)
++ No se pudo abrir porque es de un desarrollador no identificado - [Ver](#no-se-pudo-abrir-porque-es-de-un-desarrollador-no-identificado---no-funcionó)
 
 #### **No se pudo abrir porque es de un desarrollador no identificado** - [¿No Funcionó?](https://github.com/shernandezz/zoom-links#mi-problema-no-fue-resuelto-por-la-ayuda)
  
