@@ -40,8 +40,8 @@
 
 ***
 
-## _Linux_
-+ No hay aplicación instalada para archivos ejecutables - [Ver](no-hay-aplicación-instalada-para-archivos-ejecutables---no-funcionó)
+## _Ayuda para Linux_
++ No hay aplicación instalada para archivos ejecutables - [Ver](#no-hay-aplicación-instalada-para-archivos-ejecutables---no-funcionó)
 + [¿No encuentras tu problema?](#mi-problema-no-está-listado)
 
 ### **No hay aplicación instalada para archivos ejecutables** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
