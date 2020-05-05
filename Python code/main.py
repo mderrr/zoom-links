@@ -4,7 +4,7 @@ from sys import exit
 from os import chdir, getcwd
 from webbrowser import open as openWebLink
 from pyperclip import copy as copyToClipboard
-from tkinter import (Tk, messagebox, Toplevel, OptionMenu, Label, mainloop, StringVar, Button)
+from tkinter import (Tk, ttk, messagebox, Toplevel, OptionMenu, Label, mainloop, StringVar, Button)
 
 # ============================================================== MESSAGES ============================================================== #
 RAW_SCHEDULE_LINK = "https://raw.githubusercontent.com/shernandezz/zoom-links/master/JSON%20files/schedule.json"
@@ -29,6 +29,8 @@ def createTkRoot():
     root = Tk()
     root.withdraw()
     root.iconbitmap(ICON_PATH)
+    tkinter_theme = ttk.Style()
+    tkinter_theme.theme_use('vista')
 
 def center(window):
     horizontal_coord = int((window.winfo_screenwidth() / 2) - (window.winfo_reqwidth()))
@@ -48,19 +50,15 @@ def evaluateQuestion(question, link):
     if question:
         openWebLink(ZOOM_LINK_FORMAT.format(link))
         exit()
-
     elif question is None:
         pass
-
     else:
         copyToClipboard(link)
         exit()
 
 def questionMessageBox(subject):
-    
     classroom = subject["Salon"]
     question_msgbox = messagebox.askyesnocancel(title = MAIN_TITLE, message = MSGBOX_QUESTION.format(subject["Nombre"]))
-    
     evaluateQuestion(question_msgbox, classroom_links[classroom])
 
 def getSubjectFromName(selected_name):
@@ -75,30 +73,25 @@ def createOptionsWindow(subjects_dictionary_list):
     options_window.title(MAIN_TITLE)
     options_window.iconbitmap(ICON_PATH)
     center(options_window)
-
     selected_name = StringVar(options_window)
-    selected_name.set("Seleccionar")
     
     for i in range(len(subjects_dictionary_list)):
         list_of_options.append(subjects_dictionary_list[i]["Nombre"])
 
-    first_option = list_of_options[0]
-    list_of_options.pop(0)
-
-    options_message = Label(
+    options_message = ttk.Label(
         options_window,
         text = MSGBOX_OPTIONS
     )
 
-    options_menu = OptionMenu(
+    options_menu = ttk.OptionMenu(
         options_window,
         selected_name,
-        first_option,
+        "Seleccionar",
         *list_of_options,
         command = getSubjectFromName
     )
 
-    cancel_button = Button(
+    cancel_button = ttk.Button(
         options_window, 
         text =  CANCEL, 
         width = 11, 
@@ -107,7 +100,7 @@ def createOptionsWindow(subjects_dictionary_list):
 
     options_message.pack(anchor = "nw", padx = 10, pady = 10)
     options_menu.pack()
-    cancel_button.pack(padx = 24, pady = 12)
+    cancel_button.pack(padx = 24, pady = 11)
     mainloop()
 
 # ============================================================== VARIABLES ============================================================== #
@@ -126,10 +119,8 @@ for subject in range(len(schedule[week_day])):
 
 if (len(subjects_in_schedule) == 0):
     messagebox.showerror(title = MAIN_TITLE, message = NO_CLASSES_IN_SCHEDULE,)
-
 elif (len(subjects_in_schedule) == 1):
     questionMessageBox(subjects_in_schedule[0])
-
 else:
     createOptionsWindow(subjects_in_schedule)
     
