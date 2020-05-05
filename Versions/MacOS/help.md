@@ -1,5 +1,6 @@
-# Ayuda Para MacOS
-## _MacOS_
+# _MacOS_
+[_Regresar_](/README.md)
+
 **Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
 > "No se puede abrir porque es de un desarrollador no identificado".
 
@@ -9,5 +10,3 @@
 + En la parte inferior de la pestaña `general`.
 + En el apartado de `permitir apps descargadas desde`.
 + Busca el botón de `abrir de todos modos` y haz click en él.
-
-[_Regresar_](/README.md)
