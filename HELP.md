@@ -14,34 +14,46 @@
 
 ### **No se pudo abrir porque es de un desarrollador no identificado** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
  
->+ Luego de haber ejecutado el programa.
->+ Abre las `preferencias del sistema`.
->+ Selecciona `Seguridad y Privacidad`.
->+ En la parte inferior de la pestaña `general`.
->+ En el apartado de `permitir apps descargadas desde`.
->+ Busca el botón de `abrir de todos modos` y haz click en él.
+> + Luego de haber ejecutado el programa.
+> + Abre las `preferencias del sistema`.
+> + Selecciona `Seguridad y Privacidad`.
+> + En la parte inferior de la pestaña `general`.
+> + En el apartado de `permitir apps descargadas desde`.
+> + Busca el botón de `abrir de todos modos` y haz click en él.
 
 [Regresar](#ayuda)
 
 ***
 
 ## _Ayuda para Android_
-**Si al momento de abrir el archivo ejecutable se muestra un mensaje diciendo:**
-> "Por tu seguridad, tu teléfono no tiene permitido instalar apps desconocidas de esta fuente".
++ No se pudo abrir porque es de un desarrollador no identificado - [Ver](#no-se-pudo-abrir-porque-es-de-un-desarrollador-no-identificado---no-funcionó)
++ [¿No encuentras tu problema?](#mi-problema-no-está-listado)
 
-+ En el mensaje haz click en la opción `configuración`.
-+ Activa la casilla de `permitir desde esta fuente`.
-+ Regresa a la instalación.
-+ Presiona `instalar` para completar el proceso.
+### **Por tu seguridad, tu teléfono no tiene permitido instalar apps desconocidas de esta fuente** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
+ 
+> + En el mensaje haz click en la opción `configuración`.
+> + Activa la casilla de `permitir desde esta fuente`.
+> + Regresa a la instalación.
+> + Presiona `instalar` para completar el proceso.
+
+[Regresar](#ayuda)
+
+***
 
 ## _Linux_
-**Si al momento de abrir el archivo ejecutable se muestra un error diciendo:**
-> "No hay aplicación instalada para archivos ejecutables".
++ No se pudo abrir porque es de un desarrollador no identificado - [Ver](#no-se-pudo-abrir-porque-es-de-un-desarrollador-no-identificado---no-funcionó)
++ [¿No encuentras tu problema?](#mi-problema-no-está-listado)
 
-+ Haz `click derecho` en el archivo.
-+ Selecciona la opción `propiedades`.
-+ Selecciona la ventana de `permisos`.
-+ Activa la casilla `permitir ejecutar archivo como programa`.
+### **No hay aplicación instalada para archivos ejecutables** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
+
+> + Haz `click derecho` en el archivo.
+> + Selecciona la opción `propiedades`.
+> + Selecciona la ventana de `permisos`.
+> + Activa la casilla `permitir ejecutar archivo como programa`.
+
+[Regresar](#ayuda)
+
+***
 
 ## Como acceder al código fuente
 ### **Para Windows, MacOS y Linux:**
