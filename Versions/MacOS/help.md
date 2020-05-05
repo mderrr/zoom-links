@@ -1,8 +1,8 @@
 # _Ayuda MacOS_
-### Errores
-+ No se pudo abrir porque es de un desarrollador no identificado - [Ver](no-se-pudo-abrir-poque-es-de-un-desarrollador-no-identificado)
+## Errores
++ No se pudo abrir porque es de un desarrollador no identificado - [Ver](no-se-pudo-abrir-porque-es-de-un-desarrollador-no-identificado)
 
-#### **No se pudo abrir porque es de un desarrollador no identificado** 
+### **No se pudo abrir porque es de un desarrollador no identificado** 
 
 >+ Luego de haber ejecutado el programa.
 >+ Abre las `preferencias del sistema`.
