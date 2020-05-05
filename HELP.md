@@ -55,24 +55,28 @@
 
 ***
 
-## Como acceder al código fuente
-### **Para Windows, MacOS y Linux:**
+## Código Fuente
++ Como acceder al código fuente en Windows, MacOS y Linux - [Ver](#acceder-en-windows-macos-y-linux)
++ Como acceder al código fuente en Android - [Ver](#acceder-en-android)
++ [¿No encuentras tu problema?](#mi-problema-no-está-listado)
+
+### **Acceder en Windows, MacOS y Linux:**
 >Es necesario tener [**Python**](https://www.python.org/) instalado junto con los módulos `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`.
 >Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero en caso de no estarlo pueden ser instalados usando pip.
 
-#### Si no sabes usar `pip`: 
-> + Sigue este [Tutorial](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
++ #### Si no sabes usar `pip`: 
+    > Sigue este [Tutorial](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
 
-#### Para encontrar el código fuente navega a:
-> + [`Versiones`](/Versions)
-> + Selecciona la carpeta de la versión correspondiente a tu máquina.
-> + Selecciona la carpeta `Source Code`
++ #### Para encontrar el código fuente navega a:
+    > + [`Versiones`](/Versions)
+    > + Selecciona la carpeta de la versión correspondiente a tu máquina.
+    > + Selecciona la carpeta `Source Code`
 
-### **Para Android:**
+### **Acceder en Android:**
 >Para manipular el código fuente de Android es nesesario tener [**Android Studio**](https://developer.android.com/studio/) instalado.
 
-#### Para encontrar el código fuente de Android:
-> + navega a la carpeta [**`Android Studio Project`**](/Versions/Android/Android%20Studio%20Project)
++ #### Para encontrar el código fuente de Android:
+    > Navega a la carpeta [**`Android Studio Project`**](/Versions/Android/Android%20Studio%20Project)
 
 ***
 
