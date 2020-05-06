@@ -4,7 +4,7 @@
 + [**Android**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Android/ZL%20andriod.apk)
 + [**MacOS X**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/Zoom%20Links.app.zip)
 + [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links)
-+ [**iOS**](/HELP.md#ios)
++ [**iOS**](/HELP.md#ayuda-para-ios)
 
 [**¿Necesitas Ayuda?**](/HELP.md#ayuda)
 
