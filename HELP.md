@@ -5,7 +5,7 @@
 + [**MacOS**](#ayuda-para-macos)
 + [**Linux**](#ayuda-para-linux)
 + [**Código Fuente**](#código-fuente)
-+ [_Volver_](/README.md#descargas)
++ [Regresar](/README.md#descargas)
 
 ***
 
@@ -29,6 +29,8 @@
 ## _Ayuda para iOS_
 > Lamentablemente el desarrollo de Zoom Links en las plataformas de Apple no ha sido el mas amigable, y en cuanto a iOS su desarrollo ha quedado pospuesto de manera indefinida, sin embago la aplicacíon ahora está disponible para navegador, si quires usar esta version recomiedo añadir la página a tus marcadores para tener mas fácil acceso a esta.
 + [**Zoom Links para Navegador**](/README.md/#decargas)
+
+[Regresar](#ayuda)
 
 ***
 
