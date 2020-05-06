@@ -26,6 +26,12 @@
 
 ***
 
+## _Ayuda para iOS_
+> Lamentablemente el desarrollo de Zoom Links en las plataformas de Apple no ha sido el mas amigable, y en cuanto a iOS su desarrollo ha quedado pospuesto de manera indefinida, sin embago la aplicacíon ahora está disponible para navegador, si quires usar esta version recomiedo añadir la página a tus marcadores para tener mas fácil acceso a esta.
++ [**Zoom Links para Navegador**](/README.md/#decargas)
+
+***
+
 ## _Ayuda para Android_
 + Por tu seguridad tu teléfono no tiene permitido instalar apps desconocidas de esta fuente - [Ver](#por-tu-seguridad-tu-teléfono-no-tiene-permitido-instalar-apps-desconocidas-de-esta-fuente---no-funcionó)
 + [¿No encuentras tu problema?](#mi-problema-no-está-listado)

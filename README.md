@@ -1,9 +1,10 @@
 # Descargas
++ [**Navegador**](https://shernandezz.github.io/)
 + [**Windows**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Windows/ZL%20Windows%20Installer.exe)
 + [**Android**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Android/ZL%20andriod.apk)
 + [**MacOS X**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/Zoom%20Links.app.zip)
 + [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links)
-+ **iOS** - _Desarrollo en proceso_
++ [**iOS**](/HELP.md#ios)
 
 [**¿Necesitas Ayuda?**](/HELP.md#ayuda)
 
