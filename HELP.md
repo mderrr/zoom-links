@@ -1,7 +1,7 @@
 # Ayuda
 
 >Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución:
-+ [**ZoomLinks v2**](#zoom-links-v2)
++ [**ZoomLinks v2**](#zoomlinks-v2)
 + [**Android**](#ayuda-para-android)
 + [**MacOS**](#ayuda-para-macos)
 + [**Linux**](#ayuda-para-linux)
@@ -51,9 +51,9 @@
 ***
 
 ## _ZoomLinks v2_
-+ No se pudo establecer conexión - [Ver](#no-se-pudo-establecer-conexión)
-+ No hay clases programadas - [Ver](#no-hay-clases-programadas)
-+ Certificado aún no es válido - [Ver](#certificado-aún-no-es-válido)
++ No se pudo establecer conexión - [Ver](#no-se-pudo-establecer-conexión---no-funcionó)
++ No hay clases programadas - [Ver](#no-hay-clases-programadas---no-funcionó)
++ Certificado aún no es válido - [Ver](#certificado-aún-no-es-válido---no-funcionó)
 + [¿No encuentras tu problema?](#mi-problema-no-está-listado)
 
 ### **No se pudo establecer conexión** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
