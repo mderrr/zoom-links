@@ -1,6 +1,7 @@
 # Ayuda
 
 >Si estás teniendo problemas con la instalación de Zoom Links en tu dispositivo revisa el apartado de ayuda para tu respectiva versión, busca tu problema y sigue los pasos listados para darle solución:
++ [**ZoomLinks v2**](#zoom-links-v2)
 + [**Android**](#ayuda-para-android)
 + [**MacOS**](#ayuda-para-macos)
 + [**Linux**](#ayuda-para-linux)
@@ -44,6 +45,31 @@
 > + Activa la casilla de `permitir desde esta fuente`.
 > + Regresa a la instalación.
 > + Presiona `instalar` para completar el proceso.
+
+[Regresar](#ayuda)
+
+***
+
+## _ZoomLinks v2_
++ No se pudo establecer conexión - [Ver](#no-se-pudo-establecer-conexión)
++ No hay clases programadas - [Ver](#no-hay-clases-programadas)
++ Certificado aún no es válido - [Ver](#certificado-aún-no-es-válido)
++ [¿No encuentras tu problema?](#mi-problema-no-está-listado)
+
+### **No se pudo establecer conexión** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
+ 
+> Si estas viendo esta página de ayuda entonces tu conexión ha internet esta funcionando. 
+> Por favor notifícame de este incidente con los detalles pertinentes, gracias.
+
+### **No hay clases programadas** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
+ 
+> Si estas recibiendo estre error aún estando en el plazo de un ahora, antes o despues del inicio de una clase: por favor notifícame de este incidente con los detalles pertinentes, gracias.
+
+### **Certificado aún no es válido** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
+ 
+> Este error por lo general sucede cuando la fecha y hore de tu máquina no coincide con la de la página.
+> + Si estas cambiando la fecha de tu maquina para probar ZoomLinks, entonces intenta que la fecha que definas no sea muy lejada a la real.
+> + Si no estas modificando la fecha de tu maquina por favor notifícame de este incidente con los detalles pertinentes, gracias.
 
 [Regresar](#ayuda)
 
