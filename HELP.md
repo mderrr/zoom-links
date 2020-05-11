@@ -59,17 +59,18 @@
 ### **No se pudo establecer conexión**
  
 > Si estas viendo esta página de ayuda entonces tu conexión ha internet esta funcionando. 
-> Por favor notifícame de este incidente con los detalles pertinentes, gracias.
+> Por favor notifícame de este incidente con los detalles pertinentes.
 
 ### **No hay clases programadas**
  
-> Si estas recibiendo estre error aún estando en el plazo de un ahora, antes o despues del inicio de una clase: por favor notifícame de este incidente con los detalles pertinentes, gracias.
+> Si estas recibiendo este error aún estando en el plazo de una hora, antes o despues del inicio de una clase: por favor notifícame de este incidente con los detalles pertinentes.
 
 ### **Certificado aún no es válido** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
  
-> Este error por lo general sucede cuando la fecha y hore de tu máquina no coincide con la de la página.
-+ Si estas cambiando la fecha de tu maquina para probar ZoomLinks, entonces intenta que la fecha que definas no sea muy lejada a la real.
-+ Si no estas modificando la fecha de tu maquina por favor notifícame de este incidente con los detalles pertinentes, gracias.
+> Este error por lo general sucede cuando la fecha y hora de tu máquina no coincide con la de la página.
+
+> + Si estas cambiando la fecha de tu maquina para probar ZoomLinks, entonces intenta que la fecha que definas no sea muy lejada a la real.
+> + Si no estas modificando la fecha de tu maquina por favor notifícame de este incidente con los detalles pertinentes.
 
 [Regresar](#ayuda)
 
