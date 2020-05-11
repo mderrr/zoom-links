@@ -51,25 +51,25 @@
 ***
 
 ## _ZoomLinks v2_
-+ No se pudo establecer conexión - [Ver](#no-se-pudo-establecer-conexión---no-funcionó)
-+ No hay clases programadas - [Ver](#no-hay-clases-programadas---no-funcionó)
++ No se pudo establecer conexión - [Ver](#no-se-pudo-establecer-conexión)
++ No hay clases programadas - [Ver](#no-hay-clases-programadas)
 + Certificado aún no es válido - [Ver](#certificado-aún-no-es-válido---no-funcionó)
 + [¿No encuentras tu problema?](#mi-problema-no-está-listado)
 
-### **No se pudo establecer conexión** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
+### **No se pudo establecer conexión**
  
 > Si estas viendo esta página de ayuda entonces tu conexión ha internet esta funcionando. 
 > Por favor notifícame de este incidente con los detalles pertinentes, gracias.
 
-### **No hay clases programadas** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
+### **No hay clases programadas**
  
 > Si estas recibiendo estre error aún estando en el plazo de un ahora, antes o despues del inicio de una clase: por favor notifícame de este incidente con los detalles pertinentes, gracias.
 
 ### **Certificado aún no es válido** - [¿No Funcionó?](#mi-problema-no-fue-resuelto-por-la-ayuda)
  
 > Este error por lo general sucede cuando la fecha y hore de tu máquina no coincide con la de la página.
-> + Si estas cambiando la fecha de tu maquina para probar ZoomLinks, entonces intenta que la fecha que definas no sea muy lejada a la real.
-> + Si no estas modificando la fecha de tu maquina por favor notifícame de este incidente con los detalles pertinentes, gracias.
++ Si estas cambiando la fecha de tu maquina para probar ZoomLinks, entonces intenta que la fecha que definas no sea muy lejada a la real.
++ Si no estas modificando la fecha de tu maquina por favor notifícame de este incidente con los detalles pertinentes, gracias.
 
 [Regresar](#ayuda)
 
