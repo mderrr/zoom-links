@@ -1,0 +1,31 @@
+{
+  "name": "zoom-links",
+  "version": "2.0.1",
+  "description": "",
+  "main": "./source/main.js",
+  "scripts": {
+    "debug": "electron source/main.js",
+    "pack": "electron-builder --dir",
+    "dist-win": "electron-builder --win zip",
+    "dist-linux": "electron-builder --linux",
+    "dist-all": "electron-builder -mwl"
+  },
+  "keywords": [],
+  "author": "santiago hernandez",
+  "license": "MIT",
+  "devDependencies": {
+    "asar": "^3.0.3",
+    "electron": "^8.2.5",
+    "electron-builder": "^22.6.0"
+  },
+  "build": {
+    "nsis": {
+
+    },
+    "appId": "io.github.shernandezz.zoomlinks",
+    "productName": "Zoom Links",
+    "mac": {
+      "category": "io.github.shernandezz.zoomlinks"
+    }
+  }
+}
