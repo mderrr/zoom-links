@@ -20,8 +20,8 @@
 
 # Windows
 ### ¿Que version deseas descargar?
-> [`Zoom Links Portable`]()
-> La aplicaacion consiste de un solo archivo ejecutable, esto puede afectar el desempeño al momento de iniciar la aplicación.
+[`Zoom Links Portable`]()
+> La aplicación consiste de un solo archivo ejecutable, esto puede afectar el desempeño al momento de iniciar la aplicación.
 
-> [`Zoom Links Instalador`]()
+[`Zoom Links Instalador`]()
 > Es nesesario instalar la aplicacion antes de usarla, pero esta puede ser mas rápida que la versión portable.
