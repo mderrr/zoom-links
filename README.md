@@ -1,9 +1,9 @@
 # Descargas
 + [**Navegador**](https://shernandezz.github.io/)
 + [**Windows**](#windows)
-+ [**Android**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/android/ZL%20android.apk)
++ [**Android**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/android/Zoom%20Links.apk)
 + [**MacOS X**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/Zoom%20Links.app.zip)
-+ [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links)
++ [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/linux/Zoom%20Links.AppImage)
 + [**iOS**](/HELP.md#ayuda-para-ios) - _No Disponible_
 
 [**¿Necesitas Ayuda?**](/HELP.md#ayuda)
@@ -20,8 +20,8 @@
 
 ## Windows
 ### ¿Que version deseas descargar?
-+ [**`Zoom Links Portable`**]()
++ [**`Zoom Links Portable`**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/windows/portable/Zoom%20Links.exe)
 > La aplicación consiste de un solo archivo ejecutable, esto puede afectar el desempeño al momento de iniciar la aplicación.
 
-+ [**`Zoom Links Instalador`**]()
++ [**`Zoom Links Instalador`**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/windows/installer/Zoom%20Links.exe)
 > Es nesesario instalar la aplicacion antes de usarla, pero esta puede ser mas rápida que la versión portable.
