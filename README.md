@@ -11,7 +11,7 @@
 ***
 
 # Zoom Links
-### ¿Que es Zoom Links?
+### ¿Qué es Zoom Links?
 > Zoom Links es una aplicación multi-plataforma diseñada para facilitar el acceso a las aulas de Zoom para los estudiantes de Ingenieria Biomedica de la universidad CES.
 ### ¿Cómo Usarla?
 > Si al momento de abrir la aplicación hay una clase programada a empezar en una hora o menos, el programa te presentara con la opción de abrir la reunión, copiar el link o salir.
@@ -29,6 +29,6 @@
 > Esta es la version que recomiedo para el usuario común.
 
 + **Instalador**
-> Es nesesario instalar la aplicacion antes de usarla, esto creará un directorio con todos los archivos de la aplicación en `C:\Archivos de programa` por lo cual es mas complicada de tranferir, copiar y eliminar, sin embargo esta versión es significativamente más rápida que la portable.
+> Es nesesario instalar la aplicación antes de usarla, esto creará un directorio con todos los archivos de la aplicación en `C:\Archivos de programa` por lo cual es mas complicada de tranferir, copiar y eliminar, sin embargo esta versión es significativamente más rápida que la portable.
 
 > Recomiendo esta versión si no te gusta esperar.
