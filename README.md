@@ -1,8 +1,6 @@
 # Descargas
 + [**Navegador**](https://shernandezz.github.io/)
-+ **Windows** - [Más información](#qué-versión-debería-descargar)
-    + [**Portable**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/windows/portable/Zoom%20Links.exe)
-    + [**Instalador**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/windows/installer/Zoom%20Links.exe)
++ **Windows** - 
 + [**Android**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/android/Zoom%20Links.apk)
 + [**MacOS X**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/Zoom%20Links.app.zip)
 + [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/linux/Zoom%20Links.AppImage)
@@ -20,11 +18,17 @@
 ### ¿Cómo Funciona?
 > Cuando ejecutas la aplicación esta intenta acceder a el archivo [data.json](/JSON%20files/data.json) ubicado en este repositorio que contiene los horarios y los links de las aulas, luego toma el dia y la hora de la máquina y revisa si hay alguna clase que empiece en una hora o menos y si la hay presenta las opciones previamente mencionadas.
 
-## ¿Qué versión debería descargar?
+## Descargas para Windows - 
++ [**Portable**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/windows/portable/Zoom%20Links.exe)
++ [**Instalador**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/windows/installer/Zoom%20Links.exe)
+
+### ¿Qué versión debería descargar? - [¿Cúal descargar?](#qué-versión-debería-descargar)
 + **Versión Portable**
 > La aplicación consiste de un solo archivo ejecutable, esto significa que la aplicación puede ser transferida, copiada y eliminada fácilmente, sin embargo esto puede afectar el desempeño y aumentar significativamente el tiempo que le toma a la aplicación iniciar.
-> Aún asi esta es la version que recomiedo para el usuario común.
+
+> Esta es la version que recomiedo para el usuario común.
 
 + **Instalador**
-> Es nesesario instalar la aplicacion antes de usarla, esto creará un directorio con todos los archivos de la aplicación en `C:\Archivos de programa` por lo cual es mas complicada de tranferir, copiar y eliminar, sin embargo esta versión es sighnificativamente más rápida que la portable.
+> Es nesesario instalar la aplicacion antes de usarla, esto creará un directorio con todos los archivos de la aplicación en `C:\Archivos de programa` por lo cual es mas complicada de tranferir, copiar y eliminar, sin embargo esta versión es significativamente más rápida que la portable.
+
 > Recomiendo esta versión si no te gusta esperar.
