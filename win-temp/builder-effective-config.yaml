@@ -1,7 +1,6 @@
 directories:
   output: dist
   buildResources: build
-nsis: {}
 appId: io.github.shernandezz.zoomlinks
 productName: Zoom Links
 mac:
