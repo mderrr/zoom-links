@@ -1,7 +1,7 @@
 # Descargas
 + [**Navegador**](https://shernandezz.github.io/)
-+ [**Windows**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Windows/ZL%20Windows%20Installer.exe)
-+ [**Android**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Android/ZL%20andriod.apk)
++ [**Windows**](#windows)
++ [**Android**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/android/ZL%20android.apk)
 + [**MacOS X**](https://github.com/shernandezz/zoom-links/raw/master/Versions/MacOS/Zoom%20Links.app.zip)
 + [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/Versions/Linux/Zoom%20Links)
 + [**iOS**](/HELP.md#ayuda-para-ios) - _No Disponible_
@@ -18,7 +18,7 @@
 ### ¿Cómo Funciona?
 > Cuando ejecutas la aplicación esta intenta acceder a el archivo [data.json](/JSON%20files/data.json) ubicado en este repositorio que contiene los horarios y los links de las aulas, luego toma el dia y la hora de la máquina y revisa si hay alguna clase que empiece en una hora o menos y si la hay presenta las opciones previamente mencionadas.
 
-# Windows
+## Windows
 ### ¿Que version deseas descargar?
 + [**`Zoom Links Portable`**]()
 > La aplicación consiste de un solo archivo ejecutable, esto puede afectar el desempeño al momento de iniciar la aplicación.
