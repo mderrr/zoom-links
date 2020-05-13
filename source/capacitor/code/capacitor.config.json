@@ -1,0 +1,13 @@
+{
+  "appId": "io.github.shernandezz.zoomlinks",
+  "appName": "Zoom Links",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
