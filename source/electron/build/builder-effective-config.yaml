@@ -1,8 +1,0 @@
-directories:
-  output: dist
-  buildResources: build
-appId: io.github.shernandezz.zoomlinks
-productName: Zoom Links
-mac:
-  category: io.github.shernandezz.zoomlinks
-electronVersion: 8.2.5
