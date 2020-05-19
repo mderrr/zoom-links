@@ -92,7 +92,7 @@
 ***
 ## _Código Fuente_
 + Como acceder al código fuente en Windows, MacOS y Linux - [Ver](#acceder-en-windows-macos-y-linux)
-+ Como acceder al código fuente en Android - [Ver](#acceder-en-android-y-ios)
++ Como acceder al código fuente en Android y IOS - [Ver](#acceder-en-android-y-ios)
 + [¿No encuentras tu problema?](#mi-problema-no-está-listado)
 
 ### **Acceder en Windows, MacOS y Linux:**
