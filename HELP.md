@@ -92,7 +92,7 @@
 ***
 ## _Código Fuente_
 + Como acceder al código fuente en Windows, MacOS y Linux - [Ver](#acceder-en-windows-macos-y-linux)
-+ Como acceder al código fuente en Android - [Ver](#acceder-en-android)
++ Como acceder al código fuente en Android - [Ver](#acceder-en-android-y-ios)
 + [¿No encuentras tu problema?](#mi-problema-no-está-listado)
 
 ### **Acceder en Windows, MacOS y Linux:**
@@ -110,7 +110,7 @@
    + Se creará la subcarpeta `dist` y dentro de esta se encuentra el archivo ejecutable del programa.
    + [Más información](https://www.electronjs.org/docs)
 
-### **Acceder en Android:**
+### **Acceder en Android y IOS:**
 >Para manipular el código fuente de la nueva version 2.0.1 en Android es nesesario tener [**Node js**](https://nodejs.org/) instalado, además para android es nesesario tener [**Android Studio**](https://developer.android.com/studio/) y para ios [**Xcode**](https://developer.apple.com/xcode/). Luego navega a la carpeta del codigo y descárgala:
    + Navega a la carpeta [`capacitor`](/source/code/capacitor)
 
