@@ -106,8 +106,9 @@
 
 > Luego de cumplir los requisitos puedes hacer cambios al código que se encuentra en la carpeta de `source/`. Si luego de editarla deseas convertirla en un ejecutable:
    + Busca en la carpeta descargada un archivo llamado `package-lock.json`, si existe elimínalo.
-   + Usando la terminal dentro de la carpeta ejecuta: `npm run dist-*os*`, remplaza "os" con el sistema operativo de tu sistema (win, linux, mac).
+   + Usando la terminal dentro de la carpeta ejecuta: `npm run dist-"os"`, remplaza "os" con el sistema operativo de tu sistema (win, linux, mac).
    + Se creará la subcarpeta `dist` y dentro de esta se encuentra el archivo ejecutable del programa.
+   + [Más información](https://www.electronjs.org/docs)
 
 ### **Acceder en Android:**
 >Para manipular el código fuente de la nueva version 2.0.1 en Android es nesesario tener [**Node js**](https://nodejs.org/) instalado, además para android es nesesario tener [**Android Studio**](https://developer.android.com/studio/) y para ios [**Xcode**](https://developer.apple.com/xcode/). Luego navega a la carpeta del codigo y descárgala:
@@ -121,6 +122,7 @@
    + Usando la terminal dentro de la carpeta ejecuta: `npx cap add android` o `npx cap add ios` dependiendo de la plataforma.
    + Luego ejecuta `npx open andriod` o `npx open ios` para abrir en el editor nativo de cada plataforma.
    + Desde ahi puedes ejecutar la aplicacion para probarla o empaquetarla.
+   + [Más información](https://capacitor.ionicframework.com/docs/)
 
 [Regresar](#ayuda)
 
