@@ -96,19 +96,31 @@
 + [¿No encuentras tu problema?](#mi-problema-no-está-listado)
 
 ### **Acceder en Windows, MacOS y Linux:**
->Es necesario tener [**Python**](https://www.python.org/) instalado junto con los módulos `pyperclip`, `webbrowser`, `datetime`, `requests` y `tkinter`.
->Todos excepto por `pyperclip` estan instalados por defecto en Pyhthon 3.x, pero en caso de no estarlo pueden ser instalados usando `pip`, si no sabes usarlo te recomiendo este [Tutorial](https://tecnonucleous.com/2018/01/28/>como-instalar-pip-para-python-en-windows-mac-y-linux/) por tecnonucleous.
+>Para manipular el código fuente de la nueva version 2.0.1 es necesario tener [**Node js**](https://nodejs.org/) instalado, luego navega a la carpeta del codigo y descárgala:
+   + Navega a la carpeta de [`electron`](/source/code/electron)
 
-> Luego de cumplir los requisitos puedes acceder al código fuente navegando a:
-   + [`Versiones`](/Versions)
-   + Selecciona la carpeta de la versión correspondiente a tu máquina.
-   + Selecciona la carpeta `Source Code`
+>Una vez descargada utiliza los siguientes comandos dentro de la carpeta usando la terminal del sistema:
+   + `npm i electron -D`
+   + `npm i asar -D`
+   + `npm i electron-builder -D`
+
+> Luego de cumplir los requisitos puedes hacer cambios al código que se encuentra en la carpeta de `source/`. Si luego de editarla deseas convertirla en un ejecutable:
+   + Busca en la carpeta descargada un archivo llamado `package-lock.json`, si existe elimínalo.
+   + Usando la terminal dentro de la carpeta ejecuta: `npm run dist-*os*`, remplaza "os" con el sistema operativo de tu sistema (win, linux, mac).
+   + Se creará la subcarpeta `dist` y dentro de esta se encuentra el archivo ejecutable del programa.
 
 ### **Acceder en Android:**
->Para manipular el código fuente de Android es nesesario tener [**Android Studio**](https://developer.android.com/studio/) instalado.
+>Para manipular el código fuente de la nueva version 2.0.1 en Android es nesesario tener [**Node js**](https://nodejs.org/) instalado, además para android es nesesario tener [**Android Studio**](https://developer.android.com/studio/) y para ios [**Xcode**](https://developer.apple.com/xcode/). Luego navega a la carpeta del codigo y descárgala:
+   + Navega a la carpeta [`capacitor`](/source/code/capacitor)
 
-> Luego de cumplir este requisito puedes acceder al código fuente navegando a:
-   + La carpeta [**`Android Studio Project`**](/Versions/Android/Android%20Studio%20Project)
+>Una vez descargada utiliza los siguientes comandos dentro de la carpeta usando la terminal del sistema:
+   + `npm i --save @capacitor/core @capacitor/cli`
+   + `npx cap init`
+
+> Luego de cumplir los requisitos puedes hacer cambios al código que se encuentra en la carpeta de `www/`. Si luego de editarla deseas convertirla en un ejecutable:
+   + Usando la terminal dentro de la carpeta ejecuta: `npx cap add android` o `npx cap add ios` dependiendo de la plataforma.
+   + Luego ejecuta `npx open andriod` o `npx open ios` para abrir en el editor nativo de cada plataforma.
+   + Desde ahi puedes ejecutar la aplicacion para probarla o empaquetarla.
 
 [Regresar](#ayuda)
 
