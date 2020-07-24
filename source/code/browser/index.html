@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://raw.githubusercontent.com/shernandezz/zoom-links/master/source/assets/icons/icon.ico">
+    <link rel="stylesheet" type="text/css" href="./styles/style.css"/>
+    <title>Zoom Links</title>
+</head>
+<body>
+    <div id = "mainArea">
+        <div id = "animationArea"></div>
+        <div>
+            <h2 id = "messageBox"></h2>
+            <h2 id = "configMessageBox"></h2>
+            <select id="selectionBox">
+                <option value=""></option>
+            </select>
+        </div>
+        <button class="interactionButton" id = "cancelButton">Cancelar</button>
+        <button class="interactionButton" id = "copyButton">Copiar Link</button>
+        <button class="interactionButton" id = "confirmButton">Aceptar</button> 
+        <button class="interactionButton" id = "saveButton">Guardar</button>      
+        
+        <button class="navigationButton" id ="configButton"></button>
+
+        <fieldset class="field" id="firstFieldset">
+            <legend>
+                <div class="checkboxLabel">
+                    <input type="checkbox" class="semester1Main checkbox" id="1" value="semester1">
+                    <label class="checkboxLabel">Semestre 1</label>
+                </div>
+            </legend>
+
+                <label class="subLabel"><input type="checkbox" class="semester1 checkbox sub" id="10" value="cd">Cálculo diferencial</label>
+
+                <label class="subLabel"><input type="checkbox" class="semester1 checkbox sub" id="11" value="qgyl">Química general</label>
+
+                <label class="subLabel"><input type="checkbox" class="semester1 checkbox sub" id="12" value="bc">Biología celular</label>
+
+                <label class="subLabel"><input type="checkbox" class="semester1 checkbox sub" id="13" value="al">Álgebra lineal</label>
+                
+                <label class="subLabel"><input type="checkbox" class="semester1 checkbox sub" id="14" value="dei">Diseño e innovación</label>
+
+                <label class="subLabel"><input type="checkbox" class="semester1 checkbox sub" id="15" value="tpllyle">Técnicas para la lectura</label>
+
+                <label class="subLabel"><input type="checkbox" class="semester1 checkbox sub" id="15" value="iali">Introducción ingeniería</label>
+
+        </fieldset>
+
+        <fieldset class="field">
+            <legend>
+                <div class="checkboxLabel">
+                    <input type="checkbox" class="semester2Main checkbox" id="2" value="semester2">
+                    <label class="checkboxLabel">Semestre 2</label>
+                </div>
+            </legend>
+
+            <label class="subLabel"><input type="checkbox" class="semester2 checkbox sub" id="20" value="ciyed">Cálculo integral</label>
+            
+            <label class="subLabel"><input type="checkbox" class="semester2 checkbox sub" id="23" value="mys1">Modelación y simulación I</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester2 checkbox sub" id="25" value="cds">Cátedra de sostenibilidad</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester2 checkbox sub" id="24" value="cydu">Creatividad y diseño universal</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester2 checkbox sub" id="22" value="bybm">Bioquímica y biología molecular</label> 
+
+            <label class="subLabel"><input type="checkbox" class="semester2 checkbox sub" id="21" value="fcye1">Física I</label>
+
+        </fieldset>
+
+        <fieldset class="field">
+            <legend>
+                <div class="checkboxLabel">
+                    <input type="checkbox" class="semester3Main checkbox" id="3" value="semester3">
+                    <label class="checkboxLabel">Semestre 3</label>
+                </div>
+            </legend>
+
+            <label class="subLabel"><input type="checkbox" class="semester3 checkbox sub" id="30" value="cvv">Cálculo de varias variables</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester3 checkbox sub" id="31" value="fcye2">Física II</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester3 checkbox sub" id="32" value="mys2">Modelación y simulación II</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester3 checkbox sub" id="33" value="p">Programación</label>
+            
+            <label class="subLabel"><input type="checkbox" class="semester3 checkbox sub" id="34" value="mf1">Morfofisiología I</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester3 checkbox sub" id="35" value="sdssi">Sistema de seguridad social</label>
+
+        </fieldset>
+        
+        <fieldset class="field">
+            <legend>
+                <div class="checkboxLabel">
+                    <input type="checkbox" class="semester4Main checkbox" id="4" value="semester4">
+                    <label class="checkboxLabel">Semestre 4</label>
+                </div>
+            </legend>
+
+            <label class="subLabel"><input type="checkbox" class="semester4 checkbox sub" id="40" value="eyc">Electrónica y circuitos</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester4 checkbox sub" id="41" value="ayedd">Algoritmos y estructuras</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester4 checkbox sub" id="42" value="mf2">Morfofisiología II</label>
+            
+            <label class="subLabel"><input type="checkbox" class="semester4 checkbox sub" id="43" value="fq">Fisicoquímica</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester4 checkbox sub" id="44" value="e">Ética</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester4 checkbox sub" id="45" value="iygdlc">gestión de la calidad</label>    
+
+        </fieldset>
+
+        <fieldset class="field">
+            <legend>
+                <div class="checkboxLabel">
+                    <input type="checkbox" class="semester5Main checkbox" id="5" value="semester5">
+                    <label class="checkboxLabel">Semestre 5</label>
+                </div>
+            </legend>
+
+            <label class="subLabel"><input type="checkbox" class="semester5 checkbox sub" id="50" value="cdlbm">Ciencia de los Biomateriales</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester5 checkbox sub" id="51" value="gdp">Gestión de Proyectos</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester5 checkbox sub" id="52" value="be">Bioestadística</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester5 checkbox sub" id="53" value="idt">Ingeniería de Tejidos</label>
+
+        </fieldset>
+
+        <fieldset class="field">
+            <legend>
+                <div class="checkboxLabel">
+                    <input type="checkbox" class="semester6Main checkbox" id="6" value="semester6">
+                    <label class="checkboxLabel">Semestre 6</label>
+                </div>
+            </legend>
+
+            <label class="subLabel"><input type="checkbox" class="semester6 checkbox sub" id="60" value="sdi">Seminario de Investigación</label>
+
+            <label class="subLabel"><input type="checkbox" class="semester6 checkbox sub" id="61" value="gyedtes">Gestión y Evaluación de Tecnología</label> 
+
+        </fieldset>
+
+        <fieldset class="field">
+            <legend>
+                <div class="checkboxLabel">
+                    <input type="checkbox" class="semestereMain checkbox" id="e" value="semestere">
+                    <label class="checkboxLabel">Electivas</label>
+                </div>
+            </legend>
+
+            <label class="subLabel"><input type="checkbox" class="semestere checkbox sub" id="e0" value="s-cb">Caricatura Básica</label>
+
+            <label class="subLabel"><input type="checkbox" class="semestere checkbox sub" id="e1" value="s-eye">Empresarismo y Emprendimiento</label>
+
+            <label class="subLabel"><input type="checkbox" class="semestere checkbox sub" id="e2" value="p1-bdd">Biología del desarrollo</label>
+            
+            <label class="subLabel"><input type="checkbox" class="semestere checkbox sub" id="e3" value="e-fhyrv">Factores Humanos</label>
+
+            <label class="subLabel"><input type="checkbox" class="semestere checkbox sub" id="e5" value="e-ipls1">Innovación para la Salud I</label>
+
+            <label class="subLabel"><input type="checkbox" class="semestere checkbox sub" id="e4" value="e-bmeidt">Biomateriales e Ing. de Tegido</label> 
+
+            <label class="subLabel"><input type="checkbox" class="semestere checkbox sub" id="e5" value="e-ipls2">Innovación para la Salud II</label>
+
+        </fieldset>
+
+        <fieldset class="field" id="lastFieldset">
+            <legend>
+                <div class="checkboxLabel">
+                    <input type="checkbox" class="semester0Main checkbox" id="0" value="semester0">
+                    <label class="checkboxLabel">Otros</label>
+                </div>
+            </legend>
+
+            <label class="subLabel"><input type="checkbox" class="semester0 checkbox sub" id="00" value="dceelfh">Dibujo con enfasis en la figura humana</label>      
+            
+            <label class="subLabel"><input type="checkbox" class="semesterb checkbox sub" id="b0" value="b-a">Acompañamiento</label>
+
+        </fieldset>
+    
+    </div>
+    <script src="./renderer/renderer.js">
+    </script>
+</body>
+</html>

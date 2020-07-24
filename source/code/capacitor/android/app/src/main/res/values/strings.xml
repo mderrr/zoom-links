@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Zoom Links</string>
+    <string name="title_activity_main">Zoom Links</string>
+    <string name="package_name">io.github.shernandezz.zoomlinks</string>
+    <string name="custom_url_scheme">io.github.shernandezz.zoomlinks</string>
+</resources>

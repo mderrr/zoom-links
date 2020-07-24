@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" type="text/css" href="../styles/style.css"/>
+    <title>Zoom Links</title>
+</head>
+<body>
+    <div id = "mainArea">
+
+        <button class = "navigationButton" id ="closeButton"></button>
+        <button class = "navigationButton" id ="configButton"></button> 
+        
+        <div id = "animationArea"></div>
+
+        <div id = "messageArea">
+            <h2 id = "messageHeading"></h2>
+        </div>
+        
+        <button class="interactionButton" id = "cancelButton">Cancelar</button>
+        <button class="interactionButton" id = "copyButton">Copiar Link</button>
+        <button class="interactionButton" id = "confirmButton">Aceptar</button>     
+
+        
+         
+    </div>
+    <script>
+        require("../render/renderer.js")
+    </script>
+</body>
+</html>
