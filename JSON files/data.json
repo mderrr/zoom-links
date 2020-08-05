@@ -244,9 +244,9 @@
             {
                 "Nombre": "Electrónica y Circuitos",
                 "Codigo": "eyc",
-                "Salon": "B503",
-                "Inicio": 700,
-                "Final": 900
+                "Salon": "B1103",
+                "Inicio": 800,
+                "Final": 1000
             },
             {
                 "Nombre": "Física Conceptual y Experimental I",
