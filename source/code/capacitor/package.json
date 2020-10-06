@@ -15,7 +15,7 @@
   "license": "MIT",
   "devDependencies": {
     "asar": "^3.0.3",
-    "electron": "^8.4.1"
+    "electron": "^8.5.2"
   },
   "build": {
     "appId": "io.github.shernandezz.zoomlinks",
