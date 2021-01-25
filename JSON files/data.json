@@ -2,277 +2,277 @@
     "Horarios": [
         [
             {
-                "Nombre": "Bioquímica y Biología Molecular",
-                "Codigo": "bybm",
-                "Salon": "B801",
-                "Inicio": 1200,
-                "Final": 1400
-            },
-            {
-                "Nombre": "Cálculo Diferencial",
-                "Codigo": "cd",
-                "Salon": "C201",
+                "Nombre": "Cálculo Integral y Ecuaciones Diferenciales",
+                "Codigo": "ciyed",
+                "Salon": "C313",
                 "Inicio": 700,
                 "Final": 900
             },
             {
-                "Nombre": "Creatividad y Diseño Universal",
-                "Codigo": "cydu",
-                "Salon": "B504",
+                "Nombre": "Biología Celular",
+                "Codigo": "bc",
+                "Salon": "C312",
+                "Inicio": 900,
+                "Final": 1100
+            },
+            {
+                "Nombre": "Gestión de Proyectos",
+                "Codigo": "gdp",
+                "Salon": "C401",
+                "Inicio": 900,
+                "Final": 1100
+            },
+            {
+                "Nombre": "Morfofisiología I",
+                "Codigo": "mf1",
+                "Salon": "C405",
                 "Inicio": 1400,
                 "Final": 1600
             },
             {
-                "Nombre": "Dibujo con enfasis en la figura humana",
-                "Codigo": "dceelfh",
-                "Salon": "C311",
-                "Inicio": 700,
-                "Final": 900
+                "Nombre": "Técnicas para la lectura",
+                "Codigo": "tpllyle",
+                "Salon": "B1005",
+                "Inicio": 1400,
+                "Final": 1600
             },
             {
-                "Nombre": "Sociohumanística - Caricatura Básica",
-                "Codigo": "s-cb",
-                "Salon": "C205",
-                "Inicio": 700,
-                "Final": 900
-            },
-            {
-                "Nombre": "Electrónica y Circuitos",
-                "Codigo": "eyc",
-                "Salon": "B503",
-                "Inicio": 700,
-                "Final": 900  
-            },
-            {
-                "Nombre": "Ética",
-                "Codigo": "e",
-                "Salon": "C209",
-                "Inicio": 1100,
-                "Final": 1300  
-            },
-            {
-                "Nombre": "Morfofisiología II",
-                "Codigo": "mf2",
-                "Salon": "B504",
-                "Inicio": 900,
-                "Final": 1100  
-            },
-            {
-                "Nombre": "Seminario de Investigación",
-                "Codigo": "sdi",
-                "Salon": "B1203",
-                "Inicio": 700,
-                "Final": 900  
+                "Nombre": "Cátedra de Sostenibilidad",
+                "Codigo": "cds",
+                "Salon": "C304",
+                "Inicio": 1600,
+                "Final": 1800
             }
         ],
     
         [
             {
-                "Nombre": "Algoritmos y Estructuras de Datos",
-                "Codigo": "ayedd",
-                "Salon": "B503",
-                "Inicio": 1100,
-                "Final": 1300
-            },
-            {
-                "Nombre": "Cálculo de Varias Variables",
-                "Codigo": "cvv",
-                "Salon": "B1101",
+                "Nombre": "Economía y Sociedad",
+                "Codigo": "eys",
+                "Salon": "B505",
                 "Inicio": 700,
                 "Final": 900
             },
             {
-                "Nombre": "Cálculo Integral y Ecuaciones Diferenciales",
-                "Codigo": "ciyed",
-                "Salon": "C404",
+                "Nombre": "Administración General y en Salud",
+                "Codigo": "agyes",
+                "Salon": "C411",
+                "Inicio": 900,
+                "Final": 1100
+            },
+            {
+                "Nombre": "Fisicoquímica",
+                "Codigo": "fq",
+                "Salon": "C201",
+                "Inicio": 1600,
+                "Final": 1800
+            },
+            {
+                "Nombre": "Algoritmos y Estructuras de Datos",
+                "Codigo": "ayedd",
+                "Salon": "C314",
+                "Inicio": 1100,
+                "Final": 1300
+            },
+            {
+                "Nombre": "Programación",
+                "Codigo": "p",
+                "Salon": "C408",
                 "Inicio": 500,
                 "Final": 700
             },
             {
-                "Nombre": "Creatividad y Diseño Universal",
-                "Codigo": "cydu",
-                "Salon": "B504",
-                "Inicio": 1400,
-                "Final": 1600
-            },
-            {
-                "Nombre": "Diseño e Innovación",
-                "Codigo": "dei",
-                "Salon": "A203",
-                "Inicio": 1400,
-                "Final": 1600
-            },
-            {
-                "Nombre": "Profundización I - Biología del desarrollo",
-                "Codigo": "p1-bdd",
-                "Salon": "B504",
+                "Nombre": "Cálculo de Varias Variables",
+                "Codigo": "cvv",
+                "Salon": "C408",
                 "Inicio": 900,
                 "Final": 1100
             },
             {
                 "Nombre": "Física Conceptual y Experimental I",
                 "Codigo": "fcye1",
-                "Salon": "C311",
+                "Salon": "C411",
                 "Inicio": 700,
                 "Final": 900
             },
             {
-                "Nombre": "Gestión de Proyectos",
-                "Codigo": "gdp",
-                "Salon": "B1201",
-                "Inicio": 600,
+                "Nombre": "Técnicas para la lectura",
+                "Codigo": "tpllyle",
+                "Salon": "P001",
+                "Inicio": 1300,
+                "Final": 1500
+            },
+            {
+                "Nombre": "Cálculo Diferencial",
+                "Codigo": "cd",
+                "Salon": "C502",
+                "Inicio": 700,
                 "Final": 900
             },
             {
                 "Nombre": "Química General y Laboratorio",
                 "Codigo": "qgyl",
-                "Salon": "C407",
+                "Salon": "C405",
                 "Inicio": 900,
                 "Final": 1100
+            },
+            {
+                "Nombre": "Diseño e Innovación",
+                "Codigo": "dei",
+                "Salon": "C205",
+                "Inicio": 1400,
+                "Final": 1600
             }
         ],
      
         [
             {
-                "Nombre": "Álgebra Lineal",
-                "Codigo": "al",
-                "Salon": "C202",
+                "Nombre": "Introducción y gestión de la calidad",
+                "Codigo": "iygdlc",
+                "Salon": "C209",
+                "Inicio": 500,
+                "Final": 700
+            },
+            {
+                "Nombre": "Seminario de Investigación",
+                "Codigo": "sdi",
+                "Salon": "C407",
+                "Inicio": 1400,
+                "Final": 1600  
+            },
+            {
+                "Nombre": "Modelación y Simulación II",
+                "Codigo": "mys2",
+                "Salon": "C402",
                 "Inicio": 700,
                 "Final": 900
             },
             {
-                "Nombre": "Bioestadística",
-                "Codigo": "be",
-                "Salon": "C102",
-                "Inicio": 500,
-                "Final": 700
+                "Nombre": "Electrónica y Circuitos",
+                "Codigo": "eyc",
+                "Salon": "C411",
+                "Inicio": 900,
+                "Final": 1100
             },
             {
-                "Nombre": "Cálculo Diferencial",
-                "Codigo": "cd",
-                "Salon": "C201",
-                "Inicio": 500,
-                "Final": 700
-            },
-            {
-                "Nombre": "Cátedra de Sostenibilidad",
-                "Codigo": "cds",
-                "Salon": "B503",
-                "Inicio": 1600,
-                "Final": 1800
+                "Nombre": "Antropología General",
+                "Codigo": "ag",
+                "Salon": "B801",
+                "Inicio": 700,
+                "Final": 900
             },
             {
                 "Nombre": "Ciencia de los Biomateriales",
                 "Codigo": "cdlbm",
-                "Salon": "B506",
-                "Inicio": 700,
-                "Final": 900
-            },
-            {
-                "Nombre": "Sociohumanística - Empresarismo y Emprendimiento",
-                "Codigo": "s-eye",
-                "Salon": "C201",
+                "Salon": "C407",
                 "Inicio": 900,
                 "Final": 1100
             },
             {
                 "Nombre": "Física Conceptual y Experimental II",
                 "Codigo": "fcye2",
-                "Salon": "B1103",
+                "Salon": "C501",
                 "Inicio": 1400,
                 "Final": 1600
             },
             {
-                "Nombre": "Gestión y Evaluación de Tecnología en Salud",
-                "Codigo": "gyedtes",
-                "Salon": "B503",
-                "Inicio": 1600,
-                "Final": 1800
-            },
-            {
-                "Nombre": "Ingeniería de Tejidos",
-                "Codigo": "idt",
-                "Salon": "B505",
-                "Inicio": 900,
-                "Final": 1100
-            },
-            {
-                "Nombre": "Modelación y Simulación I",
-                "Codigo": "mys1",
+                "Nombre": "Cálculo Integral y Ecuaciones Diferenciales",
+                "Codigo": "ciyed",
                 "Salon": "C206",
+                "Inicio": 700,
+                "Final": 900
+            },
+            {
+                "Nombre": "Creatividad y Diseño Universal",
+                "Codigo": "cydu",
+                "Salon": "C405",
                 "Inicio": 900,
                 "Final": 1100
             },
             {
-                "Nombre": "Programación",
-                "Codigo": "p",
-                "Salon": "B1203",
-                "Inicio": 1100,
-                "Final": 1300
+                "Nombre": "Biología Celular",
+                "Codigo": "bc",
+                "Salon": "C206",
+                "Inicio": 1200,
+                "Final": 1400
+            },
+            {
+                "Nombre": "Álgebra Lineal",
+                "Codigo": "al",
+                "Salon": "P002",
+                "Inicio": 500,
+                "Final": 700
+            },
+            {
+                "Nombre": "Acompañamiento Bienestar",
+                "Codigo": "b-a",
+                "Salon": "C502",
+                "Inicio": 700,
+                "Final": 900
             }
         ],
     
         [
             {
+                "Nombre": "Administración General y en Salud",
+                "Codigo": "agyes",
+                "Salon": "C411",
+                "Inicio": 900,
+                "Final": 1100
+            },
+            {
+                "Nombre": "Fundamentos de la ingeniería de rehabilitación",
+                "Codigo": "fdlidr",
+                "Salon": "C306",
+                "Inicio": 1300,
+                "Final": 1500
+            },
+            {
                 "Nombre": "Algoritmos y Estructuras de Datos",
                 "Codigo": "ayedd",
-                "Salon": "B503",
+                "Salon": "C314",
                 "Inicio": 1100,
                 "Final": 1300
             },
             {
-                "Nombre": "Bioquímica y Biología Molecular",
-                "Codigo": "bybm",
-                "Salon": "B801",
-                "Inicio": 1300,
-                "Final": 1500
+                "Nombre": "Morfofisiología I",
+                "Codigo": "mf1",
+                "Salon": "C405",
+                "Inicio": 1400,
+                "Final": 1600
             },
             {
-                "Nombre": "Factores Hum y Rehab Veter",
-                "Codigo": "e-fhyrv",
-                "Salon": "B506",
-                "Inicio": 1500,
-                "Final": 1700
-            },
-            {
-                "Nombre": "Innovación para la Salud I",
-                "Codigo": "e-ipls1",
-                "Salon": "B506",
-                "Inicio": 1500,
-                "Final": 1700
-            },
-            {
-                "Nombre": "Electrónica y Circuitos",
-                "Codigo": "eyc",
-                "Salon": "B1103",
-                "Inicio": 800,
-                "Final": 1000
+                "Nombre": "Programación",
+                "Codigo": "p",
+                "Salon": "C408",
+                "Inicio": 500,
+                "Final": 700
             },
             {
                 "Nombre": "Física Conceptual y Experimental I",
                 "Codigo": "fcye1",
-                "Salon": "C311",
+                "Salon": "C411",
                 "Inicio": 700,
                 "Final": 900
             },
             {
-                "Nombre": "Morfofisiología II",
-                "Codigo": "mf2",
-                "Salon": "B504",
-                "Inicio": 1300,
-                "Final": 1500
+                "Nombre": "Cálculo Diferencial",
+                "Codigo": "cd",
+                "Salon": "C502",
+                "Inicio": 700,
+                "Final": 900
             },
             {
                 "Nombre": "Química General y Laboratorio",
                 "Codigo": "qgyl",
-                "Salon": "C407",
+                "Salon": "C405",
                 "Inicio": 900,
                 "Final": 1100
             },
             {
                 "Nombre": "Introducción a la Ingeniería",
                 "Codigo": "iali",
-                "Salon": "C505",
+                "Salon": "C310",
                 "Inicio": 1500,
                 "Final": 1700
             }
@@ -280,67 +280,74 @@
     
         [
             {
-                "Nombre": "Acompañamiento Bienestar",
-                "Codigo": "b-a",
-                "Salon": "B503",
-                "Inicio": 700,
-                "Final": 900
-            },
-            {
-                "Nombre": "Álgebra Lineal",
-                "Codigo": "al",
-                "Salon": "C202",
-                "Inicio": 900,
-                "Final": 1100
-            },
-            {
-                "Nombre": "Cálculo de Varias Variables",
-                "Codigo": "cvv",
-                "Salon": "B1101",
-                "Inicio": 700,
-                "Final": 900
-            },
-            {
-                "Nombre": "Cálculo Integral y Ecuaciones Diferenciales",
-                "Codigo": "ciyed",
-                "Salon": "C404",
+                "Nombre": "Introducción y gestión de la calidad",
+                "Codigo": "iygdlc",
+                "Salon": "P002",
                 "Inicio": 500,
                 "Final": 700
             },
             {
-                "Nombre": "Biomateriales e Ing. de Tegido",
-                "Codigo": "e-bmeidt",
-                "Salon": "B504",
+                "Nombre": "Procesamiento digital de señales médicas",
+                "Codigo": "pddsm",
+                "Salon": "C309",
+                "Inicio": 700,
+                "Final": 900
+            },
+            {
+                "Nombre": "Sistema de seguridad social",
+                "Codigo": "sdssi",
+                "Salon": "C405",
                 "Inicio": 900,
                 "Final": 1100
             },
             {
-                "Nombre": "Innovación para la Salud II",
-                "Codigo": "e-ipls2",
-                "Salon": "B504",
+                "Nombre": "Electrónica y Circuitos",
+                "Codigo": "eyc",
+                "Salon": "C313",
+                "Inicio": 1100,
+                "Final": 1300  
+            },
+            {
+                "Nombre": "Cálculo de Varias Variables",
+                "Codigo": "cvv",
+                "Salon": "C306",
                 "Inicio": 900,
                 "Final": 1100
             },
             {
                 "Nombre": "Física Conceptual y Experimental II",
                 "Codigo": "fcye2",
-                "Salon": "B1103",
+                "Salon": "C501",
                 "Inicio": 1400,
                 "Final": 1600
             },
             {
-                "Nombre": "Programación",
-                "Codigo": "p",
-                "Salon": "B1203",
-                "Inicio": 1100,
-                "Final": 1300
+                "Nombre": "Creatividad y Diseño Universal",
+                "Codigo": "cydu",
+                "Salon": "C312",
+                "Inicio": 900,
+                "Final": 1100
+            },
+            {
+                "Nombre": "Álgebra Lineal",
+                "Codigo": "al",
+                "Salon": "C405",
+                "Inicio": 500,
+                "Final": 700
+            },
+            {
+                "Nombre": "Biomateriales e Ing. de Tegido",
+                "Codigo": "e-bmeidt",
+                "Salon": "C309",
+                "Inicio": 700,
+                "Final": 900
             }
-            
         ],        
     
         [],
     
         []
+
     ],
     "Salones": {
         "A101": "5595909017",
@@ -433,6 +440,8 @@
         "C502": "7478971624",
         "C503": "8908877219",
         "C504": "6400696425",
-        "C505": "9237352266"
+        "C505": "9237352266",
+        "P001": "8856410541",
+        "P002": "3819517103"
     }
 }
