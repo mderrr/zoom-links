@@ -1,9 +1,9 @@
 # Descargas
 + [**Navegador**](https://shernandezz.github.io/)
-+ [**Windows**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/windows/Zoom%20Links.exe)
-+ [**Android**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/android/Zoom%20Links.apk)
-+ [**MacOS X**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/macos/Zoom%20Links.dmg)
-+ [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/linux/Zoom%20Links.AppImage)
++ [**Windows**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/windows/Zoom%20Links.exe) - _DESCONTINUADO_
++ [**Android**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/android/Zoom%20Links.apk) - _DESCONTINUADO_
++ [**MacOS X**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/macos/Zoom%20Links.dmg) - _DESCONTINUADO_
++ [**Linux**](https://github.com/shernandezz/zoom-links/raw/master/source/versions/linux/Zoom%20Links.AppImage) - _DESCONTINUADO_
 + [**iOS**](/HELP.md#ayuda-para-ios) - _No Disponible_
 
 [**¿Necesitas Ayuda?**](/HELP.md#ayuda)
